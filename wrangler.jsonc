@@ -1,15 +1,35 @@
 {
-  "name": "cubpack34-website",
-  "compatibility_date": "2025-07-20",
-  "assets": {
-    "directory": "./public",
-    "html_handling": "auto-trailing-slash",
-    "not_found_handling": "404-page",
-    "run_worker_first": false
-  },
-  "build": {
-    "command": "hugo build --gc --minify"
-  },
-  "workers_dev": true,
-  "preview_urls": true
+    "name": "cubpack34-website",
+    "compatibility_date": "2025-07-20",
+    "assets": {
+        "directory": "./public",
+        "html_handling": "auto-trailing-slash",
+        "not_found_handling": "404-page",
+        "run_worker_first": false
+    },
+    "build": {
+        "command": "hugo build --gc --minify"
+    },
+    "routes": [
+        {
+            "pattern": "cubpack34.com/*",
+            "custom_domain": true
+        }
+    ],
+    "env": {
+        "staging": {
+            "name": "cubpack34-website-staging",
+            "route": [
+                {
+                    "pattern": "staging.cubpack34.com/*",
+                    "custom_domain": true
+                }
+            ],
+            "build": {
+                "command": "hugo build --gc --minify --buildDrafts"
+            },
+        }
+    },
+    "workers_dev": true,
+    "preview_urls": true
 }
