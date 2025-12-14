@@ -1,0 +1,94 @@
+baseurl: https://cubpack34.com
+title: Cub Pack 34, Scotch Plains, NJ
+theme: hextra
+languageCode: en-us
+defaultContentLanguage: "en"
+timeZone: America/New_York
+
+
+menu:
+  main:
+    - name: Events
+      pageRef: /events
+      weight: 1
+
+    - name: Calendars
+      identifier: calendars
+      weight: 2
+      
+    - name: Full Calendar
+      pageRef: /calendars/all
+      weight: 1
+      parent: calendars
+    - name: Pack Events
+      pageRef: /calendars/pack
+      weight: 2
+      parent: calendars
+    - name: Lion
+      pageRef: /calendars/lion
+      weight: 3
+      parent: calendars
+    - name: Tiger
+      pageRef: /calendars/tiger
+      weight: 4
+      parent: calendars
+    - name: Wolf
+      pageRef: /calendars/wolf
+      weight: 5
+      parent: calendars
+    - name: Bear
+      pageRef: /calendars/bear
+      weight: 6
+      parent: calendars
+    - name: Webelo
+      pageRef: /calendars/webelo
+      weight: 7
+      parent: calendars
+    - name: AOL
+      pageRef: /calendars/aol
+      weight: 8
+      parent: calendars
+
+    - name: About
+      identifier: about
+      weight: 3
+    - name: About Our Pack
+      pageRef: /about
+      weight: 1
+      parent: about
+    - name: Cost of Scouting
+      pageRef: /about/cost-of-scouting
+      weight: 2
+      parent: about
+    - name: FAQs
+      pageRef: /about/faqs
+      weight: 3
+      parent: about
+
+    - name: How to Join
+      pageRef: /join
+      weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  page:
+    width: wide
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/CubScoutsLogo-FullColor-CSBC.png
+      link: /
+      width: 48
+      height: 48
+  footer:
+    displayPoweredBy: false
+    displayCopyright: true

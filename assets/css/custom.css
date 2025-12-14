@@ -1,0 +1,9 @@
+:root {
+  --primary-hue: 240deg;
+  --primary-saturation: 100%;
+  --primary-lightness: 90%;
+}
+
+.hextra-nav-container {
+    background-color: var(--hx-color-blue-900);
+}
