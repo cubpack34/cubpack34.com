@@ -12,7 +12,7 @@
     },
     "routes": [
         {
-            "pattern": "cubpack34.com/*",
+            "pattern": "cubpack34.com",
             "custom_domain": true
         }
     ],
@@ -21,7 +21,7 @@
             "name": "cubpack34-website-staging",
             "route": [
                 {
-                    "pattern": "staging.cubpack34.com/*",
+                    "pattern": "staging.cubpack34.com",
                     "custom_domain": true
                 }
             ],
