@@ -12,8 +12,8 @@
     },
     "routes": [
         {
-            "pattern": "cubpack34.com",
-            "custom_domain": true
+            "pattern": "cubpack34.com/*",
+            "zone_id": "e26038edbbf99ec7b240bb3513bcb3bf"
         }
     ],
     "env": {
@@ -21,8 +21,8 @@
             "name": "cubpack34-website-staging",
             "route": [
                 {
-                    "pattern": "staging.cubpack34.com",
-                    "custom_domain": true
+                    "pattern": "staging.cubpack34.com/*",
+                    "zone_id": "e26038edbbf99ec7b240bb3513bcb3bf"
                 }
             ],
             "build": {
