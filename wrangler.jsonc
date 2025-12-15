@@ -16,6 +16,10 @@
                 {
                     "pattern": "cubpack34.com/*",
                     "zone_id": "e26038edbbf99ec7b240bb3513bcb3bf"
+                },
+                {
+                    "pattern": "www.cubpack34.com/*",
+                    "zone_id": "e26038edbbf99ec7b240bb3513bcb3bf"
                 }
             ]
         },
