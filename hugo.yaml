@@ -85,7 +85,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/CubScoutsLogo-FullColor-CSBC.png
+      path: images/cub-scount-logo.webp
       link: /
       width: 48
       height: 48
