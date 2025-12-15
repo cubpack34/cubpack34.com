@@ -24,7 +24,7 @@
             "build": {
                 "command": "hugo build --gc --minify --buildDrafts"
             },
-            "route": [
+            "routes": [
                 {
                     "pattern": "staging.cubpack34.com/*",
                     "zone_id": "e26038edbbf99ec7b240bb3513bcb3bf"
