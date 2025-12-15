@@ -4,7 +4,7 @@ draft = true
 title = 'Pinewood Derby Rules'
 +++
 
-![](/images/pwd_banner.jpg)
+![](/images/pwd_banner.webp)
 
 ## Administrative Section
 *The following rules incorporate the Stock Class race rules from the Greater New York Council (GNYC) World
@@ -115,4 +115,4 @@ available.
 > NOTE
 > Wheels determined by the inspectors to be out of compliance must be replaced to compete. Official BSA wheels will be available.
 
-[![](/images/pinewood-derby-wheel-clarification-annotated.png)](/images/pinewood-derby-wheel-clarification-annotated.png)
+[![](/images/pinewood-derby-wheel-clarification-annotated.webp)](/images/pinewood-derby-wheel-clarification-annotated.webp)

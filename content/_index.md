@@ -4,7 +4,7 @@ draft = false
 title = ""
 +++
 
-![landscape](images/logo-big.jpg)
+![landscape](images/logo-big.webp)
 
 <!--
 {{< cards cols="3" >}}
