@@ -3,6 +3,7 @@ date = '2025-12-15T00:49:49-05:00'
 draft = true
 title = 'Docs'
 sidebar.hide = true
+breadcrumbs = false
 +++
 
 ## General
