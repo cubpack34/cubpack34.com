@@ -49,9 +49,14 @@ menu:
       weight: 8
       parent: calendars
 
+    - name: Docs
+      pageRef: /docs
+      weight: 3
+
     - name: About
       identifier: about
-      weight: 3
+      weight: 4
+
     - name: About Our Pack
       pageRef: /about
       weight: 1
@@ -67,7 +72,7 @@ menu:
 
     - name: How to Join
       pageRef: /join
-      weight: 4
+      weight: 5
 
 markup:
   goldmark:
