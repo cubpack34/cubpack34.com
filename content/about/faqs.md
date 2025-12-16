@@ -24,7 +24,7 @@ Yes. We are a family pack and open to both boys and girls. The one caveat is tha
 
 ### How can I reach you with additional questions?
 
-You can email us at cubpack34 @ gmail.com
+You can email us at cubpack34@gmail.com
 
 ### Who charters our pack?
 
