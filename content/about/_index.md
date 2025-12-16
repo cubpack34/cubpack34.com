@@ -7,12 +7,7 @@ sidebar.hide = true
 
 ## Cub Scouts
 
-Cub Scouting encourages each boy to strive for his personal best, a lesson that will help him achieve success
-not only as he enters Boy Scouting but also throughout his adult life. Cub Scout activities encourage character
-development, physical coordination, family unity, and enthusiasm for learning. Cub Scouting helps boys develop
-a sense of teamwork, achieve-ment, self-confidence, and respect for others. Learning to master new skills helps
-the Cub Scout realize his own abilities and discover that his can-do attitude is the first sign of success in any
-endeavor. In fact, that’s the Cub Scout motto: "Do Your Best."
+Cub Scouting encourages your child to strive for their personal best, a lesson that will help them achieve success not only as they enter Scouting but also throughout their adult life. Cub Scout activities encourage character development, physical coordination, family unity, and enthusiasm for learning. Cub Scouting helps your child develop a sense of teamwork, achievement, self-confidence, and respect for others. Learning to master new skills helps them realize their own abilities and discover that their can-do attitude is the first sign of success in any endeavor. In fact, that’s the Cub Scout motto: "Do Your Best."
 
 ## Scotch Plains Cub Scout Pack 34
 
