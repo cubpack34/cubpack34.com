@@ -6,12 +6,7 @@ title = ""
 
 ![landscape](images/logo-big.webp)
 
-<!--
 {{< cards cols="3" >}}
-  {{< card link="/events/" title="Toys for Tots" image="/images/2025-toys-for-tots.jpg" subtitle="Raw image under static directory." >}}
-  {{< card link="/events/" title="Turtleback Zoo" image="/images/2025-turtle-back-zoo-holiday-lights.jpg" subtitle="Raw image under static directory." >}}
-  {{< card link="/events/" title="Movie Night" image="/images/placeholder.png" subtitle="Raw image under static directory." >}}
-  {{< card link="/events/" title="Pinewood Derby" image="/images/logo-pinewood-derby.jpg" subtitle="Raw image under static directory." >}}
-  {{< card link="/events/" title="Pinewood Derby Clinic" image="/images/placeholder.png" subtitle="Raw image under static directory." >}}
+  {{< card link="/events/2026-turtle-back-zoo" title="Turtleback Zoo" image="/images/2025-turtle-back-zoo-holiday-lights.webp" subtitle="" >}}
+  {{< card link="/events/2026-pinewood-derby" title="Pinewood Derby" image="/images/logo-pinewood-derby.webp" subtitle="" >}}
 {{< /cards >}}
--->
