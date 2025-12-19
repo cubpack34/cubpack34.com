@@ -8,7 +8,12 @@ title = 'Docs'
 
 {{< cards cols="1" >}}
   {{< card link="/docs/scout-oath-law-motto" title="Scout Oath, Law and Motto" >}}
-  {{< card link="/docs/flag-ceremony" title="Flag Ceremony" >}}
+{{< /cards >}}
+
+## Ceremonies
+
+{{< cards cols="1" >}}
+  {{< card link="/docs/ceremonies/flag-ceremony" title="Flag Ceremony" >}}
 {{< /cards >}}
 
 ## Pinewood Derby
