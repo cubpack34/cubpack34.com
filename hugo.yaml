@@ -16,10 +16,6 @@ menu:
       identifier: calendars
       weight: 2
       
-    - name: Full Calendar
-      pageRef: /calendars/all
-      weight: 1
-      parent: calendars
     - name: Pack Events
       pageRef: /calendars/pack
       weight: 2
