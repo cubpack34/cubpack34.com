@@ -4,7 +4,7 @@ draft = true
 title = '2026 Pinewood Derby'
 +++
 
-![](/images/logo-pinewood-derby.webp)
+![](/images/events/logo-pinewood-derby.webp)
 
 {{< cards cols="2" >}}
   {{< card link="" title="Register" >}}
