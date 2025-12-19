@@ -4,7 +4,9 @@ draft = false
 title = ""
 +++
 
-![landscape](images/logo-big.webp)
+![Pack Logo](/images/logo-big.webp)
+
+## Upcoming Events
 
 {{< cards cols="3" >}}
   {{< card link="/events/2026-turtle-back-zoo" title="Turtleback Zoo" image="/images/events/2025-turtle-back-zoo-holiday-lights.webp" subtitle="" >}}
