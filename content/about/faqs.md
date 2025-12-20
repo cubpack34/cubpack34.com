@@ -62,6 +62,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### What if I missed an adventure with my den?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Pack Dues
+
+### How much are the pack dues?
+
+$80
+
+### What do pack dues cover?
+
+* Registration and Training of Adult Leaders
+* Advancements/Awards/Trophies/Patches
+* Meeting Supplies
+* Pack Events
+
+### How do I pay the pack dues?
+
+Pack dues should be sent through Zelle to cubpack34@gmail.com. Please include "Pack Dues" and your scout's name in the memo. If you are unable to use zelle, please reach out and we can make other arrangements.
+
 ## Uniform
 ### Where can I get the uniform
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
