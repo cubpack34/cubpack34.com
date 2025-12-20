@@ -18,7 +18,7 @@ title = 'Cost of Scouting'
 ## Pack Dues
 
 {{< cards cols="1" >}}
-    {{< card title="Pack Dues" tag="$ 80.00" subtitle="Covers the cost to operate the pack.<br />This includes:<br />&bull; Registration and Training of Adult Leaders<br />&bull; Advancements/Awards<br />&bull; Meeting Supplies<br />&bull; Pack Events" >}}
+    {{< card title="Pack Dues" tag="$ 80.00" link="/about/faqs/#pack-dues" subtitle="Click to learn more." >}}
 {{< /cards >}}
 
 ## Uniform
