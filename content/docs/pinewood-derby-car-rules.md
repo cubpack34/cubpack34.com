@@ -1,7 +1,7 @@
 +++
 date = '2025-12-13T23:45:23-05:00'
-draft = true
-title = 'Pinewood Derby Rules'
+draft = false
+title = 'Pinewood Derby Car Rules'
 +++
 
 ![](/images/pwd_banner.webp)
