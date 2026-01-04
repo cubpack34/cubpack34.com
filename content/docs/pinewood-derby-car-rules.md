@@ -115,4 +115,4 @@ available.
 > NOTE
 > Wheels determined by the inspectors to be out of compliance must be replaced to compete. Official BSA wheels will be available.
 
-[![](/images/pinewood-derby-wheel-clarification-annotated.webp)](/images/pinewood-derby-wheel-clarification-annotated.webp)
+[![](/images/events/pinewood-derby-wheel-clarification-annotated.webp)](/images/events/pinewood-derby-wheel-clarification-annotated.webp)
