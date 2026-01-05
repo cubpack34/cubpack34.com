@@ -6,8 +6,7 @@ title = '2026 Pinewood Derby'
 
 ![](/images/events/logo-pinewood-derby.webp)
 
-{{< cards cols="2" >}}
-  {{< card link="" title="Register" >}}
+{{< cards cols="1" >}}
   {{< card link="/docs/pinewood-derby-car-rules" title="Car Rules" >}}
 {{< /cards >}}
 
