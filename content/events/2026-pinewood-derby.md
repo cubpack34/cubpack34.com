@@ -36,11 +36,11 @@ Scouts should wear their Class A or Class B [Uniform](/about/uniform/)
 
 ## Race Structure
 
-* 8 Brackets (Each Den, Pack Final, Sibling)
-* Pack Final Bracket includes the top 3 from each den.
-* Each car will race 3 times, once in each lane. The best time will be used.
-* Top 3 in each bracket will receive a trophy including for pack final and sibling brackets.
-* Trophies will be awarded immediately after each bracket.
+* 8 Divisions (Each Den, Pack Final, Sibling)
+* Pack Final Division includes the top 3 from each den.
+* Each car will race in 3 heats, once in each lane. The best time will be used.
+* Top 3 in each division will receive a trophy including for pack final and sibling brackets.
+* Trophies will be awarded immediately after each division.
 * All racers will receive a derby patch including siblings.
 
 ## Main Car Rules
