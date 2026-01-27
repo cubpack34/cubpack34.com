@@ -1,6 +1,6 @@
 +++
 date = '2025-12-18T04:32:20-05:00'
-draft = true
+draft = false
 title = '2026 Klondike Derby'
 +++
 
@@ -15,4 +15,5 @@ title = '2026 Klondike Derby'
 
 **When**: February 7th, 2026 from 8:30am to 2:00pm<br />
 **Where**: Watchung Reservation Scout Camping Area<br />
-**Who**: Open Webelos and AOL scouts. 
+**Who**: Open to Webelos and AOL scouts.<br />
+**Cost**: $25 / scout
