@@ -19,7 +19,7 @@ title = 'Docs'
 ## Pinewood Derby
 
 {{< cards cols="1" >}}
-  {{< card link="/docs/pinewood-derby-rules" title="Pinewood Derby Rules" >}}
+  {{< card link="/docs/pinewood-derby-car-rules" title="Pinewood Derby Car Rules" >}}
 {{< /cards >}}
 
 ## Camping
