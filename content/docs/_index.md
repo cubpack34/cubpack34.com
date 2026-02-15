@@ -14,6 +14,7 @@ title = 'Docs'
 
 {{< cards cols="1" >}}
   {{< card link="/docs/ceremonies/flag-ceremony" title="Flag Ceremony" >}}
+  {{< card link="/docs/ceremonies/aol-crossover-ceremony" title="AOL Crossover Ceremony" >}}
 {{< /cards >}}
 
 ## Pinewood Derby
