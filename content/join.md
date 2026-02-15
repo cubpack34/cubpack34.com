@@ -4,6 +4,8 @@ draft = true
 title = 'How to Join'
 +++
 
+## Steps
+
 {{% steps %}}
 
 ### Register your scout with the BSA
