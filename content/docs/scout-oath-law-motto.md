@@ -1,6 +1,6 @@
 +++
 date = '2025-12-15T22:05:22-05:00'
-draft = true
+draft = false
 title = 'Scout Oath Law Motto'
 +++
 

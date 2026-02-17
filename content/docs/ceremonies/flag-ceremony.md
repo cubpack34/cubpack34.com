@@ -1,6 +1,6 @@
 +++
 date = '2025-12-15T22:05:37-05:00'
-draft = true
+draft = false
 title = 'Flag Ceremony'
 +++
 
@@ -20,40 +20,40 @@ The designated Scout who "calls out" the parts of the ceremony. Stands in front 
 
 > Flag Bearers stand at the back of the room. The U.S. flag on their right and the pack flag on their left. Color Guard is lined up behind the flag bearers. Color Guard Commander stands at the front of the room behind the flag stands.
 
-**COMMANDER: Color guard, attention!**
+**COMMANDER:** Color guard, attention!
 
-**COMMANDER: Will the audience please rise?**
+**COMMANDER:** Will the audience please rise?
 
 > Wait for audience to stand and become quiet
 
-**COMMANDER: Color guard, advance!**
+**COMMANDER:** Color guard, advance!
 
 > Color guard advances to the front of the room. Wait for color guard to reach the front.
 
-**COMMANDER: Color guard, halt!**
+**COMMANDER:** Color guard, halt!
 
-**COMMANDER: Color guard, cross the colors!**
+**COMMANDER:** Color guard, cross the colors!
 
 > The U.S. flag bearer crosses first, followed by the pack flag. Then the color guard alternates following their flag bearers. Scouts should line up next to flag posts facing the audience.
 
-**COMMANDER: Color guard, post the colors!**
+**COMMANDER:** Color guard, post the colors!
 
 > The U.S. flag is posted first, followed by the pack flag
 
-**COMMANDER: Please join me in saying the Pledge of Allegiance.**
+**COMMANDER:** Please join me in saying the Pledge of Allegiance.
 
 > Say Pledge of Allegiance
 
-**COMMANDER: Please join me in saying the Scout Oath.**
+**COMMANDER:** Please join me in saying the Scout Oath.
 
 > On my honor I will do my best to do my duty to God and my country and to obey the Scout Law; to help other people at all times; to keep myself physically strong, mentally awake, and morally straight.
 
 
-**COMMANDER: Color guard, dismissed.**
+**COMMANDER:** Color guard, dismissed.
 
 > Scouts return to their seats.
 
-**COMMANDER: The audience may be seated.**
+**COMMANDER:** The audience may be seated.
 
 ## Notes
 1. When in uniform, stand at attention and salute with your right hand.

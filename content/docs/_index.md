@@ -1,6 +1,6 @@
 +++
 date = '2025-12-15T00:49:49-05:00'
-draft = true
+draft = false
 title = 'Docs'
 +++
 
@@ -14,26 +14,11 @@ title = 'Docs'
 
 {{< cards cols="1" >}}
   {{< card link="/docs/ceremonies/flag-ceremony" title="Flag Ceremony" >}}
+  {{< card link="/docs/ceremonies/aol-crossover-ceremony" title="AOL Crossover Ceremony" >}}
 {{< /cards >}}
 
 ## Pinewood Derby
 
 {{< cards cols="1" >}}
   {{< card link="/docs/pinewood-derby-car-rules" title="Pinewood Derby Car Rules" >}}
-{{< /cards >}}
-
-## Camping
-
-{{< cards cols="1" >}}
-  {{< card link="/docs/camping-list" title="What to Bring Camping" >}}
-  {{< card link="/files/Winnebago Camp Map.pdf" title="Winnebago Camp Map" >}}
-  {{< card link="/files/Winnebago Campsites.pdf" title="Winnebago Campsites" >}}
-  {{< card link="/files/Parking Pass.pdf" title="Winnebago Parking Pass" >}}
-  {{< card link="/files/Medical Form AB.pdf" title="Medical Forms" >}}
-{{< /cards >}}
-
-## Hiking
-
-{{< cards cols="1" >}}
-  {{< card link="/docs/hiking-list" title="What to Bring Hiking" >}}
 {{< /cards >}}
