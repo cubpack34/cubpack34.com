@@ -22,6 +22,8 @@ title = 'AOL Crossover Ceremony'
 
 **CUBMASTER:** Den leader, please bring your Arrow of Light candidates and their parents forward.
 
+> AOLS, Parents, Den Leader and Asst Den Leader come to front of room and face audience.
+
 **CUBMASTER:** As a Cub Scout, you have been guided through the Cub Scout Trail with the help of many Akelas. Soon, when you become a BSA Scout, you will find that while there are still many people willing to help, you will take on more and more responsibility for blazing your own trail to Eagle.
 
 > Asst. Cubmaster lights Blue Candle
@@ -49,6 +51,8 @@ title = 'AOL Crossover Ceremony'
 **CUBMASTER:** Each boy has blazed his own trail toward the Arrow of Light award, and now the Arrow of Light will help them remember their promise to keep the Spirit of Cub Scouting alive.
 Scouts, do you promise to let its light shine forth from you, to set an example for others to follow in your footsteps, to set your eye on the Eagle and never waiver? If so please say "We Do"
 
+> Wait for parents to respond
+
 **CUBMASTER:** Then I, Akela, have the distinct honor to say to you: You are now full-fledged Arrow of Light holders! You may wear the awards on your Scout uniforms, centered below the left shirt pocket. It is a great honor for me to greet you as a recipient of the Arrow of Light award.
 
 > Den Leader will present AOL rank badge and AOL arrow to each scout, announcing their name and congratulating them.
@@ -58,7 +62,7 @@ Scouts, do you promise to let its light shine forth from you, to set an example 
 
 > Asst. Cubmaster lights Green Candle
 
-**CUBMASTER:** The last candle is Green. It symbolizes the beginning of your path toward Eagle as a BSA Scout. Your Den Leader will now lead you to the bridge that connects Cub Scouting with Scouts, BSA.
+**CUBMASTER:** The last candle is Green. It symbolizes the beginning of your path toward Eagle as a BSA Scout. Your Den Leader will now lead you to the bridge that connects Cub Scouting with Scouts, BSA. The representatives from Troop 104, please join them on stage.
 
 ## Bridging Ceremony
 
@@ -76,7 +80,7 @@ Scouts, do you promise to let its light shine forth from you, to set an example 
 
 **CUBMASTER:** Scouts these winds will be with you forever. We wish you the best of luck in your travels and experiences on the Scouting Trail.
 
-**AOL Den Leader:** Mighty Akela, the AOL Scouts here before you have been faithful and loyal members of the AOL den. They and their parents have contributed greatly to our program and the boys in the pack will miss them. Scouts, now that you have completed Cub Scouts, we are happy to see you graduating into a Scout troop. AOLs, to show that you are an experienced scout, please repeat the Scout Oath.
+**AOL Den Leader:** Mighty Akela, the AOL Scouts here before you have been faithful and loyal members of the AOL den. They and their parents have contributed greatly to our program and the scouts in the pack will miss them. Scouts, now that you have completed Cub Scouts, we are happy to see you graduating into a Scout troop. AOLs, to show that you are an experienced scout, please repeat the Scout Oath.
 
 > On my honor I will do my best to do my duty to God and my country and to obey the Scout Law; to help other people at all times; to keep myself physically strong, mentally awake, and morally straight.
 
@@ -100,6 +104,6 @@ Scouts, do you promise to let its light shine forth from you, to set an example 
 
 **SCOUTMASTER:** As Scoutmaster of Troop 104, we welcome you. There are many traditions in Scouts BSA that will interest you. We are only a guide for these scouts. The Senior Patrol Leader and his council of Scout Leaders are the ones that will help you experience the world of Scouts, BSA. Welcome to Scouts, BSA.
 
-**Senior Patrol Leader:** On behalf of all the Troop Scouts, I would like to welcome you. I present you with your Boy Scout Green Epaulets. Please wear these with pride as it shows the world that you are one of us now. Now please take your rightful place at the campfire with our Scouts.
+**Senior Patrol Leader:** On behalf of all the Troop Scouts, I would like to welcome you. I present you with your Green Epaulets. Please wear these with pride as it shows the world that you are one of us now. Now please take your rightful place at the campfire with our Scouts.
  
 **CUBMASTER:** This will conclude tonight’s ceremony. Please join us in congratulating the newest members of Scouts, BSA and stay and share in the celebration.
