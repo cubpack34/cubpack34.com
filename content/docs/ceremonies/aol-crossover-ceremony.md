@@ -48,7 +48,7 @@ title = 'AOL Crossover Ceremony'
 
 **CUBMASTER:** The third candle, Yellow, stands for the Arrow of Light. The arrow’s shaft is straight and narrow, just as is the path that you Scouts should follow throughout your life. Its tip points the way to success in all that you do. It is pointing to the right, a symbol that nothing should be left undone. If it is within your power to do it, see that it is done. And lastly, this is the symbol of the seven rays of the sun, one for each day of the week; this is to remind you that every day is a new day, a day to Do Your Best in everything.
 
-**CUBMASTER:** Each boy has blazed his own trail toward the Arrow of Light award, and now the Arrow of Light will help them remember their promise to keep the Spirit of Cub Scouting alive.
+**CUBMASTER:** Each scout has blazed their own trail toward the Arrow of Light award, and now the Arrow of Light will help them remember their promise to keep the Spirit of Cub Scouting alive.
 Scouts, do you promise to let its light shine forth from you, to set an example for others to follow in your footsteps, to set your eye on the Eagle and never waiver? If so please say "We Do"
 
 > Wait for parents to respond
@@ -102,7 +102,7 @@ Scouts, do you promise to let its light shine forth from you, to set an example 
 
 > Senior Patrol Leader and AOL Scouts cross bridge
 
-**SCOUTMASTER:** As Scoutmaster of Troop 104, we welcome you. There are many traditions in Scouts BSA that will interest you. We are only a guide for these scouts. The Senior Patrol Leader and his council of Scout Leaders are the ones that will help you experience the world of Scouts, BSA. Welcome to Scouts, BSA.
+**SCOUTMASTER:** As Scoutmaster of Troop 104, we welcome you. There are many traditions in Scouts BSA that will interest you. We are only a guide for these scouts. The Senior Patrol Leader and their council of Scout Leaders are the ones that will help you experience the world of Scouts, BSA. Welcome to Scouts, BSA.
 
 **Senior Patrol Leader:** On behalf of all the Troop Scouts, I would like to welcome you. I present you with your Green Epaulets. Please wear these with pride as it shows the world that you are one of us now. Now please take your rightful place at the campfire with our Scouts.
  
