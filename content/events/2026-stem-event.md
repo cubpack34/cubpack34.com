@@ -26,4 +26,4 @@ Join us to work on some fun STEM activities.
 
 ## Parking
 
-Parking is available behind the church. From Park Ave, turn down Church Ave then left on School Place. Entrace to parking lot will be on the left.
+Parking is available behind the church. From Park Ave, turn down Church Ave then left on School Pl. Entrance to parking lot will be on the left.
