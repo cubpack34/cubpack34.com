@@ -14,7 +14,7 @@ Join us for a hike at Lord Stirling Park. We will be hiking the Red Trail which 
 
 ## Details
 
-**When**: April 18th, 2026 at 2pm<br />
+**When**: April 19th, 2026 at 2pm<br />
 **Where**: Lord Stirling Park
 
 <br />
