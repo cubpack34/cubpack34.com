@@ -32,11 +32,13 @@ Participation in this cleanup is a great opportunity to satisfy this requirement
 5. When filling out the program form
     - Select that you are participating in a group and provide **Cub Scout Pack 34** as group name.
     - Select **Crestwood Wildlife Sanctuary** as your preferred location.
-    - Make sure to select shirt size for each participant.
+    - Make sure to select a shirt size for each participant.
 
 
 
 ## Details
 
 **When**: April 18th, 2026 at 8am - 10am<br />
-**Where**: *Location will be provided to us closer to the event*
+**Where**: Crestwood Wildlife Sanctuary<br />
+2406 Morse Ave, Scotch Plains, NJ 07076<br /><br />
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.9412517065784!2d-74.3709351!3d40.6532254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b0582ebfffff%3A0x548980979e854a6b!2sCrestwood%20Wildlife%20Sanctuary!5e0!3m2!1sen!2sus!4v1776398515433!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
