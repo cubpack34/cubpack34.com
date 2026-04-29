@@ -6,7 +6,11 @@ title = '2026 Raingutter Regatta'
 
 ![](/images/events/logo-raingutter-regatta.webp)
 
-We are holding a Raingutter Regatta at our next Pack meeting on Friday, May 15 at 7pm in the Evergreen MPR. This is a fun event where scouts will decorate a sail for their pool noodle boat and race against other scouts. They will use a straw to propel their boat to the finish line.
+Join us for a Raingutter Regatta! Scouts will decorate their own pool noodle boats and compete in an exciting race. They’ll use straws to propel their boats across the finish line. It's going to be a lot of fun!
+
+Weather permitting, we'll have an obstacle course setup outside that the Scouts can enjoy while they wait for their turn to race.
+
+Siblings are welcome to join.
 
 ## Details
 
