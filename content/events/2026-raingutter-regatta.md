@@ -6,9 +6,9 @@ title = '2026 Raingutter Regatta'
 
 ![](/images/events/logo-raingutter-regatta.webp)
 
-Join us for a Raingutter Regatta! Scouts will decorate their own pool noodle boats and compete in an exciting race. They’ll use straws to propel their boats across the finish line. It's going to be a lot of fun!
+Join us for the Raingutter Regatta! Scouts will decorate their own pool noodle boats and compete in an exciting race. They’ll use straws to propel their boats across the finish line. It's going to be a lot of fun!
 
-Weather permitting, we'll have an obstacle course setup outside that the Scouts can enjoy while they wait for their turn to race.
+Weather permitting, we'll have an obstacle course setup outside that the scouts can enjoy while they wait for their turn to race.
 
 Siblings are welcome to join.
 
