@@ -7,8 +7,12 @@ title = '2026 Spring Camporee'
 ![](/images/events/2026-spring-cubelos.webp)
 
 {{< cards cols="1" >}}
-  {{< card link="https://scoutingevent.com/358-PioneerCubelos" title="Registration" >}}
+  {{< card link="https://scoutingevent.com/358-PioneerCubelos" title="Register" >}}
 {{< /cards >}}
+
+{{< callout type="warning" >}}
+  Registration will close May 15 or when max capacity of 600 is reached.
+{{< /callout >}}
 
 Save the date for a fun-filled weekend at Winnebago Scout Reservation!<br />
 
