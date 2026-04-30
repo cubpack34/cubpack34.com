@@ -25,34 +25,39 @@ title = 'Cost of Scouting'
 
 {{< tabs >}}
     {{< tab name="Scout Uniform" >}}
-{{< cards cols="1" >}}
-    {{< card title="Cub Scout Uniform Shirt, Youth" tag="$ 32.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-shirt-youth/387" >}}
-    {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
-    {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
-    {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
-    {{< card title="Patriots' Path Council's CSP" tag="$ 4.49" link="https://www.ppcscoutshop.org/product/PPC-CSP/98" >}}
-    {{< card title="Emblem Unit Numerals Red (34)" tag="$ 3.98" link="https://www.ppcscoutshop.org/product/emblem-unit-numerals-red/367" >}}
-    {{< card title="Emblem World Crest" tag="$ 2.49" link="https://www.ppcscoutshop.org/product/emblem-world-crest/264" >}}
-    {{< card title="Emblem World Crest Ring 1910" tag="$ 1.99" link="https://www.ppcscoutshop.org/product/emblem-world-crest-ring-1910/263" >}}
-{{< /cards >}}
+        {{< cards cols="1" >}}
+            {{< card title="Cub Scout Uniform Shirt, Youth" tag="$ 32.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-shirt-youth/387" >}}
+            {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
+            {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
+            {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
+            {{< card title="Patriots' Path Council's CSP" tag="$ 4.49" link="https://www.ppcscoutshop.org/product/PPC-CSP/98" >}}
+            {{< card title="Emblem Unit Numerals Red (34)" tag="$ 3.98" link="https://www.ppcscoutshop.org/product/emblem-unit-numerals-red/367" >}}
+            {{< card title="Emblem World Crest" tag="$ 2.49" link="https://www.ppcscoutshop.org/product/emblem-world-crest/264" >}}
+            {{< card title="Emblem World Crest Ring 1910" tag="$ 1.99" link="https://www.ppcscoutshop.org/product/emblem-world-crest-ring-1910/263" >}}
+        {{< /cards >}}
     {{< /tab >}}
     
     {{< tab name="Scout Uniform (Presewn)" >}}
-{{< cards cols="1" >}}
-    {{< card title="Cub Scout Uniform Shirt, Youth" tag="$57.95" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-shirt-youth/387" >}}
-    {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
-    {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
-    {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
-    {{< card title="Emblem Unit Numerals Red (34)" tag="$ 3.98" link="https://www.ppcscoutshop.org/product/emblem-unit-numerals-red/367" >}}
-{{< /cards >}}
+        {{< cards cols="1" >}}
+            {{< card title="Cub Scout Uniform Shirt, Youth (w/ Presewn Patches)" tag="$57.95" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-shirt-youth/387" >}}
+            {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
+            {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
+            {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
+            {{< card title="Emblem Unit Numerals Red (34)" tag="$ 3.98" link="https://www.ppcscoutshop.org/product/emblem-unit-numerals-red/367" >}}
+        {{< /cards >}}
     {{< /tab >}}
     
     {{< tab name="Lion Uniform" >}}
-{{< cards cols="1" >}}
-    {{< card title="Cub Scout Uniform Lion Rank T-Shirt, Youth" tag="$14.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-lion-rank-t-shirt-youth/282" >}}
-    {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
-    {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
-    {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
-{{< /cards >}}
+        {{< cards cols="1" >}}
+            {{< card title="Cub Scout Uniform Lion Rank T-Shirt, Youth" tag="$14.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-lion-rank-t-shirt-youth/282" >}}
+            {{< card title="Cub Scout Uniform Caps" tag="$ 22.99 - $ 24.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-caps/388" >}}
+            {{< card title="Cub Scout Uniform Rank Slides" tag="$ 7.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-rank-slides/389" >}}
+            {{< card title="Cub Scout Uniform Neckerchiefs" tag="$ 12.99" link="https://www.ppcscoutshop.org/product/cub-scout-uniform-neckerchiefs/390" >}}
+        {{< /cards >}}
     {{< /tab >}}
 {{< /tabs >}}
+
+## Financial Assistance
+
+For assistance with BSA Registration and uniform costs, you can apply for assistance with the Patriot's Path Council using [this](https://ppcscouting.org/wp-content/uploads/Family-Assistance-Request-Fillable.pdf) form.
+

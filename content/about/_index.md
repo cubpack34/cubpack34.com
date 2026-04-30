@@ -22,6 +22,7 @@ Our pack is open to students K-5 from Evergreen, Brunner and School One.
 * Klondike Derby
 * STEM Events
 * Blue and Gold Celebration
+* AOL Crossover Celebration
 * Movie Nights
 * Community Service Projects
 * Pack Outings (Shows, Sporting Events, etc)

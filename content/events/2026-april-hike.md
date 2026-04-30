@@ -10,7 +10,7 @@ title = '2026 April Hike'
   {{< card link="https://www.somersetcountyparks.org/sites/g/files/vyhlif8281/f/uploads/lss_eec_combo_2024.pdf" title="Trail Map" >}}
 {{< /cards >}}
 
-Join us for a hike at Lord Stirling Park. We will be hiking the Red Trail which is 2.1 miles. Make sure to bring along the <a href="/docs/six-essentials/">Cub Scout Six Essentials</a>.
+Join us for a hike at Lord Stirling Park. We will be hiking the Red Trail which is 2.1 miles. Make sure to bring along the [Cub Scout Six Essentials](/docs/six-essentials/).
 
 ## Details
 
