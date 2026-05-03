@@ -52,13 +52,17 @@ All adult volunteers are background checked during registration with the BSA. Vo
 
 ## Meetings and Events
 
-### How often do the pack and dens meet?
+### How often does the pack and dens meet?
 
 Scouts will typically have 1 pack and 1 den meeting per month.
 
 ### How long are the meetings?
 
 Den meetings are usually 1 hour and pack meetings are usually 2 hours.
+
+### Is the day of the week that a particular den meets consistent year over year?
+
+No. The leadership for each den decides before the new year starts what day of the week works best for their den. The schedules of our scouts and leadership will change year to year and we try to find a day of the week that works best for each. 
 
 ## Ranks and Achievements
 ### How does my scout earn each rank?
@@ -106,7 +110,7 @@ The class B uniform is our pack t-shirt. This shirt is perfect for outdoor activ
 
 ### Where can I get the uniform
 
-The cub scout class A uniform can be purchase from the [Scout Shop](https://www.ppcscoutshop.org/).
+The cub scout class A uniform can be purchased from the [Scout Shop](https://www.ppcscoutshop.org/).
 
 Pack t-shirts can be purchased from the pack for $15. Please reach out if you need one. Your scout's first pack t-shirt will be provided free when joining the pack.
 
