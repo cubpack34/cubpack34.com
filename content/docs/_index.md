@@ -8,7 +8,7 @@ title = 'Docs'
 
 {{< cards cols="1" >}}
   {{< card link="/docs/scout-oath-law-motto" title="Scout Oath, Law and Motto" >}}
-  {{< card link="/docs/six-essentials" title="Six Essentials" >}}
+  {{< card link="/docs/six-essentials" title="Cub Scout Six Essentials" >}}
 {{< /cards >}}
 
 ## Ceremonies
