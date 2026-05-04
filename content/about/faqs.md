@@ -30,7 +30,7 @@ You can email us at cubpack34@gmail.com
 
 Our pack is chartered by American Legion Post 209.
 
-### What BSA Council are we in?
+### What BSA Council are we apart of?
 
 We are part of the Pioneer District of the Patriots' Path Council.
 
@@ -41,6 +41,18 @@ Parents need to remain present at all cub scout meetings.
 ## Pack Structure and Leadership
 
 ### Pack vs. Dens?
+
+The pack includes all scouts in our den. Each scout is then assigned to a den based on their grade level.
+
+<table>
+<tr><th>Grade</th><th>Den</th></tr>
+<tr><td>Kindergarten</td><td>Lion</td></tr>
+<tr><td>1st Grade</td><td>Tiger</td></tr>
+<tr><td>2nd Grade</td><td>Wolf</td></tr>
+<tr><td>3rd Grade</td><td>Bear</td></tr>
+<tr><td>4th Grade</td><td>Webelo</td></tr>
+<tr><td>5th Grade</td><td>AOL</td></tr>
+</table>
 
 ### Who leads the pack? Who leads each den?
 
@@ -103,6 +115,10 @@ On the left sleeve, the council patch should be on top along the shoulder seam w
 On the right sleeve, the american flag should be on top (the flag patch should be presewn on all shirts and does not need to be purchased seperately).
 
 Above the left pocket, place the world crest patch surrounded by the world crest ring.
+
+Details and images can be found [here](https://www.scouting.org/programs/cub-scouts/cub-scout-uniform/).
+
+We recommend using a [Cub Scout Diamond Rank Badge Holder](https://www.scoutshop.org/diamond-emblem-holder-64041.html) for rank badges to avoid continued sewing and to make it easier for the shirt to be reused by siblings.
 
 ### What is the class B uniform
 
