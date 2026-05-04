@@ -8,7 +8,7 @@ timeZone: America/New_York
 
 menu:
   main:
-    - name: Events
+    - name: Upcoming Events
       pageRef: /events
       weight: 1
 
@@ -20,27 +20,27 @@ menu:
       pageRef: /calendars/pack
       weight: 2
       parent: calendars
-    - name: Lion
+    - name: Lion (Kindergarten)
       pageRef: /calendars/lion
       weight: 3
       parent: calendars
-    - name: Tiger
+    - name: Tiger (1 Grade)
       pageRef: /calendars/tiger
       weight: 4
       parent: calendars
-    - name: Wolf
+    - name: Wolf (2 Grade)
       pageRef: /calendars/wolf
       weight: 5
       parent: calendars
-    - name: Bear
+    - name: Bear (3 Grade)
       pageRef: /calendars/bear
       weight: 6
       parent: calendars
-    - name: Webelo
+    - name: Webelo (4 Grade)
       pageRef: /calendars/webelo
       weight: 7
       parent: calendars
-    - name: AOL
+    - name: AOL (5 Grade)
       pageRef: /calendars/aol
       weight: 8
       parent: calendars

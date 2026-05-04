@@ -1,7 +1,7 @@
 +++
 date = '2025-11-15T00:06:12-05:00'
 draft = false
-title = 'Current Events'
+title = 'Upcoming Events'
 +++
 
 {{< cards cols="3" >}}
