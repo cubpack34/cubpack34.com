@@ -22,7 +22,7 @@ Join us to work on some fun STEM activities.
 
 <br />
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d939.0948958211334!2d-74.3945027282862!3d40.648032272490276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b085f4820ac9%3A0xb384a21ead8a8a86!2sAll%20Saints%20Episcopal%20Church!5e1!3m2!1sen!2sus!4v1774404777645!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d939.0948958211334!2d-74.3945027282862!3d40.648032272490276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b085f4820ac9%3A0xb384a21ead8a8a86!2sAll%20Saints%20Episcopal%20Church!5e1!3m2!1sen!2sus!4v1774404777645!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Parking
 
