@@ -1,7 +1,7 @@
 baseurl: https://cubpack34.com
 title: Cub Pack 34, Scotch Plains, NJ
-theme: hextra
-languageCode: en-us
+theme: hextra-0.12.2
+languageCode: en
 defaultContentLanguage: "en"
 timeZone: America/New_York
 
