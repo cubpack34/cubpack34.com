@@ -4,8 +4,9 @@ draft = true
 title = 'Cost of Scouting'
 +++
 
-> [!NOTE]
-> This pricing is accurate as of December 2025
+{{< callout type="info" >}}
+This pricing is accurate as of December 2025
+{{< /callout >}}
 
 ## BSA Registration
 
@@ -56,6 +57,11 @@ title = 'Cost of Scouting'
         {{< /cards >}}
     {{< /tab >}}
 {{< /tabs >}}
+
+
+{{< callout type="info" >}}
+All items above are available to purchase at our local council's scout shops [https://www.ppcscoutshop.org/](https://www.ppcscoutshop.org/).<br />Click on any item to be taken directly to it's store page.
+{{< /callout >}}
 
 ## Financial Assistance
 
