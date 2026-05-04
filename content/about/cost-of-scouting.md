@@ -1,6 +1,6 @@
 +++
 date = '2025-11-15T00:06:59-05:00'
-draft = true
+draft = false
 title = 'Cost of Scouting'
 +++
 

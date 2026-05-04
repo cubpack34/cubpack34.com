@@ -1,6 +1,6 @@
 +++
 date = '2025-12-13T02:53:25-05:00'
-draft = true
+draft = false
 title = 'How to Join'
 +++
 

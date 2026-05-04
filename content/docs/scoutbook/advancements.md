@@ -1,6 +1,6 @@
 +++
 date = '2026-05-01T13:28:57-04:00'
-draft = true
+draft = false
 title = 'Adding Scout Advancements'
 +++
 
