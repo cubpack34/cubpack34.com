@@ -7,7 +7,7 @@ title = '2026 Planting Flags'
 ![](/images/events/logo-flag-planting.webp)
 
 Join us in helping the American Legion to plant flags in the park outside the Scotch Plains Municipal Building.<br />
-Scouts should wear their Class A [Uniform](/about/uniform/)
+Scouts should wear their Class A [Uniform](/about/faqs/#uniform)
 
 
 ## Details

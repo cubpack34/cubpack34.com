@@ -94,7 +94,7 @@ Pack dues should be sent through Zelle to cubpack34@gmail.com. Please include "P
 
 ### What is the class A uniform
 
-The class A uniform is the standard attire worn by Cub Scouts during pack meetings and official events. It promotes equality, fosters a sense of belonging and provides a place to display earned achievements. This uniform consists of the navy blue dress shirt with appropriate patches, neckerchief, slide and hat.
+The class A uniform is the standard attire worn by Cub Scouts during pack meetings and official events. It promotes equality, fosters a sense of belonging and provides a place to display earned achievements. This uniform consists of the navy blue dress shirt with appropriate patches, neckerchief, slide and hat. A full list is available [here](/about/cost-of-scouting/#uniform).
 
 ### What patches are required on class A uniform
 
@@ -113,10 +113,6 @@ The class B uniform is our pack t-shirt. This shirt is perfect for outdoor activ
 The cub scout class A uniform can be purchased from the [Scout Shop](https://www.ppcscoutshop.org/).
 
 Pack t-shirts can be purchased from the pack for $15. Please reach out if you need one. Your scout's first pack t-shirt will be provided free when joining the pack.
-
-### What parts of the uniform do I need?
-
-Check out the [Uniform](/about/uniform/) page for details.
 
 ### When does my scout need to wear their uniform
 

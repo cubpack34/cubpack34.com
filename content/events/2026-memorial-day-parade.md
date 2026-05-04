@@ -7,7 +7,7 @@ title = '2026 Memorial Day Parade'
 ![](/images/events/logo-memorial-day.webp)
 
 Save the date to march with us at this year's Memorial Day parade.<br />
-Scouts should wear their Class A [Uniform](/about/uniform/)
+Scouts should wear their Class A [Uniform](/about/faqs/#uniform)
 
 Further details will be provided as we receive them.
 
