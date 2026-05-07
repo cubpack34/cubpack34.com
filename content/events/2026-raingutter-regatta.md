@@ -15,4 +15,4 @@ Siblings are welcome to join.
 ## Details
 
 **When**: May 15th, 2026 at 7pm<br />
-**Where**: Evergreen MPR<br />
+**Where**: Brunner MPR<br />
