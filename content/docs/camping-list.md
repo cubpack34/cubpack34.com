@@ -1,8 +1,7 @@
 +++
 date = '2025-12-15T00:54:32-05:00'
-draft = true
+draft = false
 title = 'What to Bring Camping'
-layout = 'default'
 +++
 
 

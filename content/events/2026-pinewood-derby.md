@@ -15,7 +15,7 @@ title = '2026 Pinewood Derby'
 **When**: January 17th, 2026 at 10am<br />
 **Where**: Evergreen MPR<br />
 **Who**: Open to scouts and their siblings<br />
-Scouts should wear their Class A or Class B [Uniform](/about/uniform/)
+Scouts should wear their Class A or Class B [Uniform](/about/faqs/#uniform)
 
 ## Schedule
 

@@ -1,6 +1,6 @@
 +++
 date = '2025-11-15T00:06:37-05:00'
-draft = true
+draft = false
 title = 'About Our Pack'
 +++
 
@@ -10,8 +10,7 @@ Cub Scouting encourages your child to strive for their personal best, a lesson t
 
 ## Scotch Plains Cub Scout Pack 34
 
-Our pack is open to students K-5 from Evergreen, Brunner and School One.
-<description of our pack, our chartered org, our district, schools served>
+Our pack is open to students K-5 from Evergreen, Brunner and School One in Scotch Plains, NJ. We are chartered by the [American Legion Post 209](https://www.facebook.com/groups/209024890231986) and part of the [Patriot's Path Council](https://ppcscouting.org/) in the Pioneer District.
 
 ## Meetings and Events
 
@@ -22,6 +21,7 @@ Our pack is open to students K-5 from Evergreen, Brunner and School One.
 * Klondike Derby
 * STEM Events
 * Blue and Gold Celebration
+* AOL Crossover Celebration
 * Movie Nights
 * Community Service Projects
 * Pack Outings (Shows, Sporting Events, etc)

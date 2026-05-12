@@ -6,10 +6,10 @@ title = 'Six Essentials'
 
 
 {{< cards cols="3" >}}
-  {{< card link="" title="First Aid"      image="/images/essentials/firstaid.svg"    imageStyle="padding:20px;" subtitle="" >}}
+  {{< card link="" title="First Aid"      image="/images/essentials/firstaid.svg"    imageStyle="padding:20px;" subtitle="&bull; Bandaids<br />&bull; Gauze Pads and Tape<br />&bull; Antibiotic Ointment<br />&bull; Anti-Itch Spray" >}}
   {{< card link="" title="Flashlight"     image="/images/essentials/flashlight.svg"  imageStyle="padding:20px;" subtitle="" >}}
-  {{< card link="" title="Sun Protection" image="/images/essentials/sunscreen.svg"   imageStyle="padding:20px;" subtitle="" >}}
-  {{< card link="" title="Trail Food"     image="/images/essentials/energybar.svg"   imageStyle="padding:20px;" subtitle="" >}}
+  {{< card link="" title="Sun Protection" image="/images/essentials/sunscreen.svg"   imageStyle="padding:20px;" subtitle="&bull; Sunscreen<br />&bull; Hat" >}}
+  {{< card link="" title="Trail Food"     image="/images/essentials/energybar.svg"   imageStyle="padding:20px;" subtitle="&bull; Granola Bars<br />&bull; Trail Mix" >}}
   {{< card link="" title="Water Bottle"   image="/images/essentials/waterbottle.svg" imageStyle="padding:20px;" subtitle="" >}}
   {{< card link="" title="Whistle"        image="/images/essentials/whistle.svg"     imageStyle="padding:20px;" subtitle="" >}}
 {{< /cards >}}

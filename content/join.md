@@ -1,6 +1,6 @@
 +++
 date = '2025-12-13T02:53:25-05:00'
-draft = true
+draft = false
 title = 'How to Join'
 +++
 
@@ -14,7 +14,7 @@ https://my.scouting.org/online-registration/b986dba0-2745-4363-b72c-645cccf98f05
 
 ### Pack Dues
 
-Pack Dues are $80 and should be sent through Zelle to cubpack34@gmail.com. Please include "Pack Dues" and your scout's name in the Zelle note.
+Pack Dues are $80 and are paid directly to the pack. [How do I pay the pack dues](/about/faqs/#how-do-i-pay-the-pack-dues)
 
 {{% /steps %}}
 
