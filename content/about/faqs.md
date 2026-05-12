@@ -20,7 +20,7 @@ Cub scouts is open to all scouts Kindergarten through 5th grade.
 
 ### Can my daughter join the pack?
 
-Yes. We are a family pack and open to both boys and girls. The one caveat is that any den with a girl member is required to have a female adult volunteer registered to the pack.
+Yes. We are a family pack and open to both boys and girls. The one caveat is that any den with a girl member is required to have a female adult volunteer registered to the den.
 
 ### How can I reach you with additional questions?
 
@@ -36,13 +36,13 @@ We are part of the Pioneer District of the Patriots' Path Council.
 
 ### Do parents need to be present? Can I drop off my child?
 
-Parents need to remain present at all cub scout meetings.
+Parents need to remain present at all cub scout meetings and events.
 
 ## Pack Structure and Leadership
 
 ### Pack vs. Dens?
 
-The pack includes all scouts in our den. Each scout is then assigned to a den based on their grade level.
+The pack includes all scouts. Each scout is then assigned to a den based on their grade level.
 
 <table>
 <tr><th>Grade</th><th>Den</th></tr>
@@ -104,11 +104,11 @@ Pack dues should be sent through Zelle to cubpack34@gmail.com. Please include "P
 
 ## Uniform
 
-### What is the class A uniform
+### What is the class A uniform?
 
 The class A uniform is the standard attire worn by Cub Scouts during pack meetings and official events. It promotes equality, fosters a sense of belonging and provides a place to display earned achievements. This uniform consists of the navy blue dress shirt with appropriate patches, neckerchief, slide and hat. A full list is available [here](/about/cost-of-scouting/#uniform).
 
-### What patches are required on class A uniform
+### What patches are required on class A uniform?
 
 On the left sleeve, the council patch should be on top along the shoulder seam with our pack number (34) just below
 
@@ -120,17 +120,17 @@ Details and images can be found [here](https://www.scouting.org/programs/cub-sco
 
 We recommend using a [Cub Scout Diamond Rank Badge Holder](https://www.scoutshop.org/diamond-emblem-holder-64041.html) for rank badges to avoid continued sewing and to make it easier for the shirt to be reused by siblings.
 
-### What is the class B uniform
+### What is the class B uniform?
 
 The class B uniform is our pack t-shirt. This shirt is perfect for outdoor activities, campouts, hikes, etc. 
 
-### Where can I get the uniform
+### Where can I get the uniform?
 
 The cub scout class A uniform can be purchased from the [Scout Shop](https://www.ppcscoutshop.org/).
 
 Pack t-shirts can be purchased from the pack for $15. Please reach out if you need one. Your scout's first pack t-shirt will be provided free when joining the pack.
 
-### When does my scout need to wear their uniform
+### When does my scout need to wear their uniform?
 
 The class A uniform is required when participating in ceremonies or attending events representing the cub scouts. We will note in event details when the class A uniform is required.
 
