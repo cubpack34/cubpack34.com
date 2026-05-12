@@ -85,6 +85,14 @@ Ranks are earned by completing all adventure requirements for that rank. Adventu
 
 While we prefer to complete adventures together as a den, all adventure requirements can be completed at home with your child. 
 
+### How do I record adventure requirements I've worked on with my scout?
+
+[Adding Scout Advancements](/docs/scoutbook/adding-advancements)
+
+### How can I see my scout's current progress in their den?
+
+[Viewing Scout Advancements](/docs/scoutbook/viewing-advancements)
+
 ## Pack Dues
 
 ### How much are the pack dues?

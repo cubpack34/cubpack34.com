@@ -38,5 +38,6 @@ title = 'Docs'
 
 {{< cards cols="1" >}}
   {{< card link="/docs/scoutbook/adding-advancements" title="Adding Scout Advancements" >}}
+  {{< card link="/docs/scoutbook/viewing-advancements" title="Viewing Scout Advancements" >}}
 {{< /cards >}}
 
