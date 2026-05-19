@@ -1,0 +1,39 @@
+
+[
+    {
+        "title": "Raingutter Regatta",
+        "subtitle": "May 15, 2026",
+        "link": "/events/2026-raingutter-regatta",
+        "image": "/images/events/logo-raingutter-regatta.webp"
+    },
+    {
+        "title": "Planting Flags with American Legion",
+        "subtitle": "May 16, 2026",
+        "link": "/events/2026-planting-flags",
+        "image": "/images/events/logo-flag-planting.webp"
+    },
+    {
+        "title": "Memorial Day Parade",
+        "subtitle": "May 25, 2026",
+        "link": "/events/2026-memorial-day-parade",
+        "image": "/images/events/logo-memorial-day.webp"
+    },
+    {
+        "title": "Spring Camporee",
+        "subtitle": "May 29-31, 2026",
+        "link": "/events/2026-spring-camporee",
+        "image": "/images/events/2026-spring-cubelos.webp"
+    },
+    {
+        "title": "End of Year Celebration / Badge of Rank Ceremony",
+        "subtitle": "June 20, 2026",
+        "link": "",
+        "image": "/images/coming-soon.webp"
+    },
+    {
+        "title": "Somerset Patriots Scout Night",
+        "subtitle": "July 11, 2026",
+        "link": "/events/2026-somerset-patriots",
+        "image": "/images/events/logo-somerset-patriots.webp"
+    }
+]
