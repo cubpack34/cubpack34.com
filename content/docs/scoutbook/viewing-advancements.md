@@ -6,7 +6,7 @@ title = 'Viewing Advancements'
 
 
 ## Viewing Advancements through Mobile App
-Download the app for [Apple](https://apps.apple.com/us/app/scouting/id1218464473) or [Android](https://play.google.com/store/apps/details?id=com.bsa.sbm&hl=en)
+Download the app for [Apple](https://apps.apple.com/us/app/scouting/id1218464473) or [Android](https://play.google.com/store/apps/details?id=com.bsa.sbm&hl=en). Login using your myScouting credentials.
 
 {{< cards cols="3" >}}
   {{< card link="" title="Step 1"      image="/images/scoutbook/app-1.webp"    imageStyle="padding:20px;" subtitle="Select your scout from the list" >}}
@@ -17,7 +17,7 @@ Download the app for [Apple](https://apps.apple.com/us/app/scouting/id1218464473
 {{< /cards >}}
 
 ## Viewing Advancements through Mobile Web
-Navigate to [Scoutbook Plus](https://advancements.scouting.org)
+Navigate to [Scoutbook Plus](https://advancements.scouting.org). Login using your myScouting credentials.
 
 {{< cards cols="3" >}}
   {{< card link="" title="Step 1"      image="/images/scoutbook/mobile-1.webp"    imageStyle="padding:20px;" subtitle="Select yellow cub scout logo in the top right" >}}
