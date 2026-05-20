@@ -151,6 +151,10 @@ The class A uniform is required when participating in ceremonies or attending ev
 
 We typically try to schedule 2 campouts per year, once in the fall and once in the spring.
 
+### Who is eligible to attend a cub scouts camping trips?
+
+Our camping trips are open to registered scouts and their siblings. All children in attendance must be accompanied by their parent or legal guardian.
+
 ### Where have we gone camping in the past?
 
 * [Winnebago Scout Reservation](https://maps.app.goo.gl/3DVHBX3N35dXLAZ56)
