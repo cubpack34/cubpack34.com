@@ -153,7 +153,7 @@ We typically try to schedule 2 campouts per year, once in the fall and once in t
 
 ### Who is eligible to attend a cub scouts camping trips?
 
-Our camping trips are open the registered scouts and their siblings. All children in attendance must be accompanied by their parent or legal guardian.
+Our camping trips are open to registered scouts and their siblings. All children in attendance must be accompanied by their parent or legal guardian.
 
 ### Where have we gone camping in the past?
 
