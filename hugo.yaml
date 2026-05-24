@@ -86,7 +86,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/cub-scount-logo.webp
+      path: images/cub-scout-logo.webp
       link: /
       width: 48
       height: 48
