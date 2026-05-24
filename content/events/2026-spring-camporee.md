@@ -28,29 +28,46 @@ Registration is open now until Friday, May 15, 2026 at 11:59pm. This event is li
 **Where**: Winnebago Scout Reservation<br />
 **Cost**: $30 for Scouts, siblings, and adults (Children under 5 are
 FREE!)<br />
-**Food Cost**: $20 per person (zelle to cubpack34@gmail.com)
+**Food Cost**: $10 per person (zelle to cubpack34@gmail.com). The food budget covers breakfast, lunch, dinner and campfire snakes on Saturday and breakfast on Sunday.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118619.5661387663!2d-74.48037074637047!3d40.96920792812633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c30e4a75b7b9ad%3A0x8372079d97c17e40!2s102%20Timberbrook%20Rd%2C%20Rockaway%20Township%2C%20NJ%2007866!5e1!3m2!1sen!2sus!4v1777361075331!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Saturday Schedule
+| Activity            | Start | End   | Location               | Max Scouts |
+|---------------------|-------|-------|------------------------|------------|
+| Breakfast           |       |       |                        |            |
+| Opening Ceremony    |       |       |                        |            |
+| BB Gun Station      | 11:30 | 12:00 | BB Range (P-1)         |         14 |
+| BB Gun Station      | 12:00 | 12:30 | BB Range (P-1)         |          4 |
+| Lunch               | 12:30 |  1:30 |                        |            |
+| Archery Station     |  2:00 |  2:30 | Archery Range (P-1)    |         18 |
+| Knot Tying Station  |  2:30 |  3:00 | Scoutcraft Area (P-11) |            |
+| First Aid Station   |  3:00 |  3:30 | Dining Hall (P-6)      |            |
+| Fishing Derby       |  3:30 |  4:00 | Waterfront Area (P-15) |         16 |
+| Campfire and Skits  |  4:30 |  5:30 |                        |            |
+| Dinner              |  5:40 |       |                        |            |
+
 
 ## Winnebago Scout Reservation Details
 
 {{< cards cols="1" >}}
-  {{< card link="/files/Winnebago Camp Map.pdf" title="Winnebago Camp Map" >}}
+  {{< card link="/files/Winnebago Camp Map.pdf" title="Winnebago Camp Map (Version 1)" >}}
+  {{< card link="/files/Winnebago Camp Map V2.pdf" title="Winnebago Camp Map (Version 2)" >}}
   {{< card link="/files/Winnebago Campsites.pdf" title="Winnebago Campsites" >}}
 {{< /cards >}}
 
 ## Parking
 
 {{< cards cols="1" >}}
-  {{< card link="/files/Parking Pass.pdf" title="Winnebago Parking Pass" >}}
+  {{< card link="/files/Parking Passes.pdf" title="Winnebago Parking Passes" >}}
 {{< /cards >}}
 
 Make sure to print and fill out parking pass and place it on your dash at the campsite.
 
 ## Arrival and Exit Times
 
-**Friday Arrival**: Checkin starts at 6pm<br />
-**Saturday Arrival**: Checkin from 7am to 9am<br />
+**Friday Arrival**: Checkin starts at 6pm. No arrivals after 9pm.<br />
+**Saturday Arrival**: Checkin from 7am to 9am. No arrivals between 9am and 11am during opening ceremony.<br />
 **Sunday Exit Time**: Exit by 11am
 
 ## Activities & Stations

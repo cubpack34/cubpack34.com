@@ -7,7 +7,7 @@ title = '2026 Memorial Day Parade'
 ![](/images/events/logo-memorial-day.webp)
 
 Save the date to march with us at this year's Memorial Day parade.<br />
-Parade runs from Gazebo outside Town Hall to Le Grande Park.<br />
+Parade runs from the Gazebo outside Town Hall to Le Grande Park.<br />
 Assembly point is on Grand St.<br />
 The pack needs to be assembled and ready by 9:45 am.<br />
 Scouts should wear their Class A [Uniform](/about/faqs/#uniform)
