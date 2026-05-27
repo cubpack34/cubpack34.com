@@ -1,6 +1,6 @@
 +++
 date = '2026-05-12T20:20:05-04:00'
-draft = true
+draft = false
 title = 'Somerset Patriots Scout Night'
 +++
 
