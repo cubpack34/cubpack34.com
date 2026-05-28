@@ -25,7 +25,7 @@ Registration is open now until Friday, May 15, 2026 at 11:59pm. This event is li
 ## Details
 
 **When**: Friday, May 29 – Sunday, May 31, 2026<br />
-**Where**: Winnebago Scout Reservation<br />
+**Where**: Winnebago Scout Reservation - Iroquois Campsite<br />
 **Cost**: $30 for Scouts, siblings, and adults (Children under 5 are
 FREE!)<br />
 **Food Cost**: $10 per person (zelle to cubpack34@gmail.com). The food budget covers breakfast, lunch, dinner and campfire snakes on Saturday and breakfast on Sunday.
@@ -33,6 +33,7 @@ FREE!)<br />
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118619.5661387663!2d-74.48037074637047!3d40.96920792812633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c30e4a75b7b9ad%3A0x8372079d97c17e40!2s102%20Timberbrook%20Rd%2C%20Rockaway%20Township%2C%20NJ%2007866!5e1!3m2!1sen!2sus!4v1777361075331!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Saturday Schedule
+
 | Activity            | Start | End   | Location               | Max Scouts |
 |---------------------|-------|-------|------------------------|------------|
 | Breakfast           |       |       |                        |            |
@@ -76,6 +77,12 @@ Make sure to print and fill out parking pass and place it on your dash at the ca
 **Knife Training**: Open to next Bears, Webelos, and AOLs<br />
 **Fishing**: Fishing Derby Station (Must register for prizes) + Open Fishing all day long<br />
 **Community**: Group Games and a huge Event Campfire!
+
+## What to Bring Camping
+
+{{< cards cols="1" >}}
+  {{< card link="/docs/camping-list" title="What to Bring Camping" >}}
+{{< /cards >}}
 
 ## Medical Forms
 
