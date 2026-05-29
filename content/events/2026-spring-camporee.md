@@ -34,8 +34,8 @@ FREE!)<br />
 
 ## Saturday Schedule
 
-| Activity            | Start | End   | Location               | Max Scouts |
-|---------------------|-------|-------|------------------------|------------|
+| Activity            | Start | End   | Location               | Max Scouts | Notes |
+|---------------------|-------|-------|------------------------|------------| ----- |
 | Breakfast           |       |       |                        |            |
 | Opening Ceremony    |       |       |                        |            |
 | BB Gun Station      | 11:30 | 12:00 | BB Range (P-1)         |         14 |
@@ -44,7 +44,7 @@ FREE!)<br />
 | Archery Station     |  2:00 |  2:30 | Archery Range (P-1)    |         18 |
 | Knot Tying Station  |  2:30 |  3:00 | Scoutcraft Area (P-11) |            |
 | First Aid Station   |  3:00 |  3:30 | Dining Hall (P-6)      |            |
-| Fishing Derby       |  3:30 |  4:00 | Waterfront Area (P-15) |         16 |
+| Fishing Derby       |  3:30 |  4:00 | Waterfront Area (P-15) |         16 | 3 Adult Volunteers Needed |
 | Campfire and Skits  |  4:30 |  5:30 |                        |            |
 | Dinner              |  5:40 |       |                        |            |
 
@@ -77,6 +77,16 @@ Make sure to print and fill out parking pass and place it on your dash at the ca
 **Knife Training**: Open to next Bears, Webelos, and AOLs<br />
 **Fishing**: Fishing Derby Station (Must register for prizes) + Open Fishing all day long<br />
 **Community**: Group Games and a huge Event Campfire!
+
+
+{{< callout type="note" >}}
+  Necessary materials and equipment will be provided for all activities except for open fishing.
+{{< /callout >}}
+
+{{< callout type="warning" >}}
+  Fishing is strictly not allowed at the dock or near any swimming areas.
+{{< /callout >}}
+
 
 ## What to Bring Camping
 
