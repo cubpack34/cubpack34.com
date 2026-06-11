@@ -6,7 +6,22 @@ title = '2026 End of Year Celebration'
 
 ![](/images/cub-scout-logo.webp)
 
-Let's celebrate another successful year of scouting. Join us in celebrating our scouts as they receive their remaining advancements and their badge of rank. 
+Let's celebrate another successful year of scouting.
+
+Join us in celebrating our scouts as they receive their remaining advancements and their badge of rank. 
+
+We are looking for volunteers that can bring sides, snacks, drinks, etc. If you are able to bring anything, please sign-up below.
+
+{{< cards cols="1" >}}
+  {{< card link="https://docs.google.com/spreadsheets/d/1RKxRABXilfz2BqcZ01T2TDdJMGsaso5hE512WZfqSsk/edit?usp=sharing" title="Sign-up to Bring Something" >}}
+{{< /cards >}}
+
+## Activities
+<ul>
+    <li>Potluck Dinner</li>
+    <li>Badge of Rank Ceremony</li>
+    <li>Campfire with S'mores</li>
+</ul>
 
 ## Details
 
