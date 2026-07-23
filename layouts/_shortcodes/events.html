@@ -1,8 +1,13 @@
 
 {{ $json := resources.Get "events.json" | transform.Unmarshal }}
 
-<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
-{{ range  $json }}
-  {{ partial "shortcodes/card.html" (dict "link" .link "title" .title "image" .image "subtitle" .subtitle) }}
+{{ if gt (len $json) 0 }}
+    <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+    {{ range  $json }}
+        {{ partial "shortcodes/card.html" (dict "link" .link "title" .title "image" .image "subtitle" .subtitle) }}
+    {{ end }}
+    </div>
+{{ else }}
+    <br />
+    No upcoming events.
 {{ end }}
-</div>
