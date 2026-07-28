@@ -97,7 +97,7 @@ While we prefer to complete adventures together as a den, all adventure requirem
 
 ### How much are the pack dues?
 
-$80 for 2025-2026
+$100 for 2026-2027
 
 ### What do pack dues cover?
 
