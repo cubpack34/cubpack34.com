@@ -1,6 +1,6 @@
 +++
 date = '2026-05-16T14:32:16-04:00'
-draft = true
+draft = false
 title = '2026 Popcorn Fundraiser'
 aliases = [
     "/popcorn/"
@@ -13,7 +13,7 @@ aliases = [
 
 ## Details
 
-Popcorn season is here! From **August 1st** through October 30th, 2026, our pack is aiming to sell **$9,500** in popcorn with at least **50% pack participation**.
+Popcorn season is here! From **August 1st** through October 31th, 2026, our pack is aiming to sell **$9,500** in popcorn with at least **50% pack participation**.
 
 Getting involved is the easiest way to fund your Scout’s activities: sales directly cover pack operations, Scouts can earn individual [cash rewards](/events/2026-popcorn/#trails-end-rewards) and prizes, and parents can completely [eliminate annual pack dues](/events/2026-popcorn/#selling-popcorn-reduces-pack-dues). Help us fund an amazing year of adventure!
 
