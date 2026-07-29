@@ -19,7 +19,7 @@ This pricing is accurate as of December 2025
 ## Pack Dues
 
 {{< cards cols="1" >}}
-    {{< card title="Pack Dues" tag="$ 80.00" link="/about/faqs/#pack-dues" subtitle="Click to learn more." >}}
+    {{< card title="Pack Dues" tag="$ 100.00" link="/about/faqs/#pack-dues" subtitle="Click to learn more." >}}
 {{< /cards >}}
 
 ## Uniform
