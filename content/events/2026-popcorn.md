@@ -54,7 +54,21 @@ If selling to someone local, we recommend placing a wagon order and getting the 
 
 ### Storefront
 
-Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Commissions are shared between all scouts working the shift.
+Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Commissions are shared between all scouts working a shift. Shifts are typically 2 hours long. Feel free to grab multiple shifts, we can always arrange more.
+
+{{< callout type="info" >}}
+To keep things fair, scouts should be able to attend the full shift as commissions are split across the full shift.
+{{< /callout >}}
+{{< callout type="info" >}}
+If your plans change and you are unable to attend a shift, please release it in the app so its available for others.
+{{< /callout >}}
+
+{{< callout type="info" >}}
+Do you have a specific location in mind for a storefront? Whether it’s a community center, religious organization, or private business, we’re here to help. Send us an email, and we’ll handle the setup and stocking for you!
+
+*Please note: Permission from the property owner is required prior to setting up a storefront.*
+{{< /callout >}}
+
 
 ### Wagon
 
@@ -69,12 +83,6 @@ No matter how you choose to sell
     <li>All orders should be processed through the trails-end app or website. Storefront and wagon inventory is tracked in the app and can only be updated when a sale is recorded.</li>
     <li>Prefer credit transactions over cash. If cash is the only option they have, keep the cash safe and make sure the cash gets back to us promptly and we'll convert it to credit for you.</li>
 </ul>
-{{< /callout >}}
-
-{{< callout type="info" >}}
-Do you have a specific location in mind for a storefront? Whether it’s a community center, religious organization, or private business, we’re here to help. Send us an email, and we’ll handle the setup and stocking for you!
-
-*Please note: Permission from the property owner is required prior to setting up a storefront.*
 {{< /callout >}}
 
 ## The Sales Pitch
