@@ -1,3 +1,7 @@
+
+{{ $fileName := printf "%s-popcorn-sales.json" (.Get "year") }}
+{{ $json := resources.Get $fileName | transform.Unmarshal }}
+
 <style>
 #countdown-wrap {
     width: 100%;
@@ -28,7 +32,7 @@
 
 #progress {
     float: left;
-    width: {{ .Get "percentage" }}%;
+    width: {{ $json.percentage }}%;
     height: 20px;
     background: #2ecc71;
     z-index: 333;
@@ -55,17 +59,17 @@
 
 </style>
 
-<div id=countdown-wrap>
-    <div id="goal">Goal: ${{ .Get "goal" }}</div>
+<div id="countdown-wrap">
+    <div id="goal">Goal: {{ $json.goal }}</div>
     <div id="glass">
         <div id="progress"></div>
     </div>
     <div class="goal-stat" style="text-align:left;">
-        <span class="goal-number">{{ .Get "percentage" }}%</span>
+        <span class="goal-number">{{ $json.percentage }}%</span>
         <span class="goal-label">Funded</span>
     </div>
     <div class="goal-stat" style="text-align:center;">
-        <span class="goal-number">${{ .Get "raised" }}</span>
+        <span class="goal-number">{{ $json.raised }}</span>
         <span class="goal-label">Raised</span>
     </div>
     <div class="goal-stat" style="text-align:right;">
@@ -74,9 +78,32 @@
     </div>
 </div>
 
+{{ if ge (len $json.leaderboard) 1}}
+    <p style="display: flex; align-items: center; justify-content: center; gap: 8px; font-weight:bold">Leaderboard</p>
+    <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ math.Min (len $json.leaderboard) 3}};">
+    {{ if ge (len $json.leaderboard) 1}}
+        {{ $leader0 := index $json.leaderboard 0 }}
+        {{ $leader0_title := printf "%s - %s" $leader0.name $leader0.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-gold" "title" $leader0_title ) -}}
+    {{ end }}
+
+    {{ if ge (len $json.leaderboard) 2}}
+        {{ $leader1 := index $json.leaderboard 1 }}
+        {{ $leader1_title := printf "%s - %s" $leader1.name $leader1.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-silver" "title" $leader1_title ) -}}
+    {{ end }}
+
+    {{ if ge (len $json.leaderboard) 3}}
+        {{ $leader2 := index $json.leaderboard 2 }}
+        {{ $leader2_title := printf "%s - %s" $leader2.name $leader2.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-bronze" "title" $leader2_title ) -}}
+    {{ end }}
+    </div>
+{{ end }}
+
 <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", () => {
-        const targetDateStr = "{{ .Get "end" }}";
+        const targetDateStr = "{{ $json.end }}";
 
         let today = new Date();
         today.setHours(0, 0, 0, 0);

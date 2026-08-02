@@ -9,7 +9,7 @@ aliases = [
 
 ![](/images/popcorn.webp)
 
-{{< popcorn-progress raised="0" goal="9,500" percentage="0" end="2026-09-30" >}}
+{{< popcorn-progress year="2026" >}}
 
 ## Details
 
