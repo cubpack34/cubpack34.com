@@ -228,6 +228,6 @@ Scouts earn bonus points when they hit total sales milestones. These points are 
 
 ## Flyers from Trails End
 {{< cards cols="1" >}}
-  {{< card link="/files/2026 Trails End Parent Guide.pdf" title="Parent Guide Flyer.pdf" >}}
-  {{< card link="/files/2026 Trails End Rewards Flyer.pdf" title="Reward Flyer.pdf" >}}
+  {{< card link="/files/2026 Trails End Parent Guide.pdf" title="Parent Guide Flyer" >}}
+  {{< card link="/files/2026 Trails End Rewards Flyer.pdf" title="Reward Flyer" >}}
 {{< /cards >}}
