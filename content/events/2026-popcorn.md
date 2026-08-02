@@ -143,6 +143,41 @@ Pack dues for the 2026-2027 year are set at $100. However, your scout can partia
 | $200         | $33       |
 | $300+        | $0        |
 
+## PPC Rewards
+
+For scouts that sell less than $600, our local council is offering prizes for scouts that sell $150 and $300. We will reach out in November with the prize catalog for scouts to make their selections.
+
+### Pins and Patches
+
+* All scouts will receive a participation popcorn patch.
+* Pins awarded for top seller, online sales and donations.
+* Scouts that raise $100 or more for Heroes and Helpers will receive a special patch.
+
+### Reward Tiers
+
+| Sales Level | Prize                                           |
+|-------------|-------------------------------------------------|
+| $750        | Engraved Carabiner                              |
+| $1500       | Engraved Owala Water Bottle                     |
+| $1800       | Coupon for 1 week at PPC Summer Camp            |
+| $2500       | Attend Special Event December 5th with Prizes   |
+
+{{< cards cols="1" >}}
+  {{< card link="/files/2026-All-Scout-Prizes.pdf" title="Details on all PPC Rewards" >}}
+{{< /cards >}}
+
+### Weekly Sales Challenge
+
+* Council has set a sales challenge for each week.
+* If completed, parents can submit their scout's information to be part of the weekly drawing.
+* Submissions must be in by Friday at noon of that week.
+* Winners receive an amazon or walmart gift card that can be picked up from council.
+
+{{< cards cols="1" >}}
+  {{< card link="/files/2026-Scout-Weekly-Drawing.pdf" title="Weekly Scout Popcorn Challenge" >}}
+{{< /cards >}}
+
+
 ## Trail's End Rewards
 
 Scouts can earn cash rewards for selling popcorn.</mj-text>
