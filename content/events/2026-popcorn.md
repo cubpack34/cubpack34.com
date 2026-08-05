@@ -54,11 +54,16 @@ If selling to someone local, we recommend placing a wagon order and getting the 
 
 ### Storefront
 
-Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Commissions are shared between all scouts working a shift. Shifts are typically 2 hours long. Feel free to grab multiple shifts, we can always arrange more.
+Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Shifts are typically 2 hours long.
+
+We will setup the table, chairs, banners, signs, cash box and donation box and stock the popcorn. You only need to bring your phone with the app to process sales and make sure your scout is wearing their class A uniform. We recommend bringing water, a snack and an activity for when things are slow.
+
+Feel free to grab multiple shifts, we can always arrange more.
 
 {{< callout type="info" >}}
-To keep things fair, scouts should be able to attend the full shift as commissions are split across the full shift.
+If scouts want to table together, reach out and we can add more scouts to the shift. Commissions will be shared between all scouts working a shift.
 {{< /callout >}}
+
 {{< callout type="info" >}}
 If your plans change and you are unable to attend a shift, please release it in the app so its available for others.
 {{< /callout >}}
