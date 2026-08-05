@@ -9,7 +9,7 @@ aliases = [
 
 ![](/images/popcorn.webp)
 
-{{< popcorn-progress raised="0" goal="9,500" percentage="0" end="2026-09-30" >}}
+{{< popcorn-progress year="2026" >}}
 
 ## Details
 
@@ -54,11 +54,16 @@ If selling to someone local, we recommend placing a wagon order and getting the 
 
 ### Storefront
 
-Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Commissions are shared between all scouts working a shift. Shifts are typically 2 hours long. Feel free to grab multiple shifts, we can always arrange more.
+Sign up in the app to attend a storefront sales event. We have arranged permission with local businesses to table outside their locations. Shifts are typically 2 hours long.
+
+We will setup the table, chairs, banners, signs, cash box and donation box and stock the popcorn. You only need to bring your phone with the app to process sales and make sure your scout is wearing their class A uniform. We recommend bringing water, a snack and an activity for when things are slow.
+
+Feel free to grab multiple shifts, we can always arrange more.
 
 {{< callout type="info" >}}
-To keep things fair, scouts should be able to attend the full shift as commissions are split across the full shift.
+If scouts want to table together, reach out and we can add more scouts to the shift. Commissions will be shared between all scouts working a shift.
 {{< /callout >}}
+
 {{< callout type="info" >}}
 If your plans change and you are unable to attend a shift, please release it in the app so its available for others.
 {{< /callout >}}
@@ -143,6 +148,41 @@ Pack dues for the 2026-2027 year are set at $100. However, your scout can partia
 | $200         | $33       |
 | $300+        | $0        |
 
+## PPC Rewards
+
+For scouts that sell less than $600, our local council is offering prizes for scouts that sell $150 and $300. We will reach out in November with the prize catalog for scouts to make their selections.
+
+### Pins and Patches
+
+* All scouts will receive a participation popcorn patch.
+* Pins awarded for top seller, online sales and donations.
+* Scouts that raise $100 or more for Heroes and Helpers will receive a special patch.
+
+### Reward Tiers
+
+| Sales Level | Prize                                           |
+|-------------|-------------------------------------------------|
+| $750        | Engraved Carabiner                              |
+| $1500       | Engraved Owala Water Bottle                     |
+| $1800       | Coupon for 1 week at PPC Summer Camp            |
+| $2500       | Attend Special Event December 5th with Prizes   |
+
+{{< cards cols="1" >}}
+  {{< card link="/files/2026-All-Scout-Prizes.pdf" title="Details on all PPC Rewards" >}}
+{{< /cards >}}
+
+### Weekly Sales Challenge
+
+* Council has set a sales challenge for each week.
+* If completed, parents can submit their scout's information to be part of the weekly drawing.
+* Submissions must be in by Friday at noon of that week.
+* Winners receive an amazon or walmart gift card that can be picked up from council.
+
+{{< cards cols="1" >}}
+  {{< card link="/files/2026-Scout-Weekly-Drawing.pdf" title="Weekly Scout Popcorn Challenge" >}}
+{{< /cards >}}
+
+
 ## Trail's End Rewards
 
 Scouts can earn cash rewards for selling popcorn.</mj-text>
@@ -193,6 +233,6 @@ Scouts earn bonus points when they hit total sales milestones. These points are 
 
 ## Flyers from Trails End
 {{< cards cols="1" >}}
-  {{< card link="/files/2026 Trails End Parent Guide.pdf" title="Parent Guide Flyer.pdf" >}}
-  {{< card link="/files/2026 Trails End Rewards Flyer.pdf" title="Reward Flyer.pdf" >}}
+  {{< card link="/files/2026 Trails End Parent Guide.pdf" title="Parent Guide Flyer" >}}
+  {{< card link="/files/2026 Trails End Rewards Flyer.pdf" title="Reward Flyer" >}}
 {{< /cards >}}

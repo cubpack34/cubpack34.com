@@ -67,3 +67,4 @@ All items above are available to purchase at our local council's scout shops [ht
 
 For assistance with BSA Registration and uniform costs, you can apply for assistance with the Patriot's Path Council using [this](https://ppcscouting.org/wp-content/uploads/Family-Assistance-Request-Fillable.pdf) form.
 
+Pack dues can be reduced or eliminated through [popcorn sales](/events/2026-popcorn/#selling-popcorn-reduces-pack-dues).
