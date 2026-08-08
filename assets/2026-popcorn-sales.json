@@ -1,12 +1,20 @@
 {
-    "raised": "$115",
+    "raised": "$1,213",
     "goal": "$9,500",
-    "percentage": "1%",
+    "percentage": "13%",
     "end": "2026-10-31",
     "leaderboard": [
         {
             "name": "Kevin G.",
-            "sold": "$115"
+            "sold": "$438"
+        },
+        {
+            "name": "Jared O.",
+            "sold": "$420"
+        },
+        {
+            "name": "Calvin B.",
+            "sold": "$125"
         }
     ]
 }
