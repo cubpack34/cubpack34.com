@@ -80,26 +80,24 @@
 
 {{ if ge (len $json.leaderboard) 1}}
     <p style="display: flex; align-items: center; justify-content: center; gap: 8px; font-weight:bold">Leaderboard</p>
-    <div style="display: flex; align-items: center; justify-content: center;"></p>
-        <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="max-width:300px; --hextra-cards-grid-cols: 1;">
-        {{ if ge (len $json.leaderboard) 1}}
-            {{ $leader0 := index $json.leaderboard 0 }}
-            {{ $leader0_title := printf "%s - %s" $leader0.name $leader0.sold }}
-            {{- partial "shortcodes/card" (dict "icon" "trophy-gold" "title" $leader0_title ) -}}
-        {{ end }}
+    <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ math.Min (len $json.leaderboard) 3}};">
+    {{ if ge (len $json.leaderboard) 1}}
+        {{ $leader0 := index $json.leaderboard 0 }}
+        {{ $leader0_title := printf "%s - %s" $leader0.name $leader0.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-gold" "title" $leader0_title ) -}}
+    {{ end }}
 
-        {{ if ge (len $json.leaderboard) 2}}
-            {{ $leader1 := index $json.leaderboard 1 }}
-            {{ $leader1_title := printf "%s - %s" $leader1.name $leader1.sold }}
-            {{- partial "shortcodes/card" (dict "icon" "trophy-silver" "title" $leader1_title ) -}}
-        {{ end }}
+    {{ if ge (len $json.leaderboard) 2}}
+        {{ $leader1 := index $json.leaderboard 1 }}
+        {{ $leader1_title := printf "%s - %s" $leader1.name $leader1.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-silver" "title" $leader1_title ) -}}
+    {{ end }}
 
-        {{ if ge (len $json.leaderboard) 3}}
-            {{ $leader2 := index $json.leaderboard 2 }}
-            {{ $leader2_title := printf "%s - %s" $leader2.name $leader2.sold }}
-            {{- partial "shortcodes/card" (dict "icon" "trophy-bronze" "title" $leader2_title ) -}}
-        {{ end }}
-        </div>
+    {{ if ge (len $json.leaderboard) 3}}
+        {{ $leader2 := index $json.leaderboard 2 }}
+        {{ $leader2_title := printf "%s - %s" $leader2.name $leader2.sold }}
+        {{- partial "shortcodes/card" (dict "icon" "trophy-bronze" "title" $leader2_title ) -}}
+    {{ end }}
     </div>
 {{ end }}
 
