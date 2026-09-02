@@ -8,6 +8,10 @@ title = 'Cost of Scouting'
 This pricing is accurate as of August 2026
 {{< /callout >}}
 
+{{< callout type="warning" >}}
+BSA Youth Registration fees are increasing to $96 in 2027. Council Fee will be held at $50. [Official Infographic](/files/NewFeesInfographic.pdf)
+{{< /callout >}}
+
 ## BSA Registration
 
 {{< cards cols="1" >}}
