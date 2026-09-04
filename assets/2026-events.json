@@ -1,0 +1,27 @@
+
+[
+    {
+        "title": "Popcorn Fundraiser",
+        "subtitle": "August 1st - October 23st",
+        "link": "/events/2026-popcorn",
+        "image": "/images/events/2026-popcorn.webp"
+    },
+    {
+        "title": "Open House Pack Meeting",
+        "subtitle": "September 18, 2026",
+        "link": "/events/2026-open-house",
+        "image": "/images/events/2026-open-house.webp"
+    },
+    {
+        "title": "Fall Camping",
+        "subtitle": "October TBD, 2026",
+        "link": "",
+        "image": "/images/events/logo-camping.webp"
+    },
+    {
+        "title": "Scouting for Food",
+        "subtitle": "October 17, 2026 and October 24, 2026",
+        "link": "/events/2026-scouting-for-food",
+        "image": "/images/events/logo-scouting-for-food.webp"
+    }
+]

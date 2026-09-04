@@ -1,10 +1,21 @@
 
-{{ $json := resources.Get "events.json" | transform.Unmarshal }}
+{{ $fileName := printf "%s-events.json" (.Get "year") }}
+{{ $events := resources.Get $fileName | transform.Unmarshal }}
 
-{{ if gt (len $json) 0 }}
+{{ $limit := .Get "limit" | default (.Get 0) | int }}
+
+{{ if gt $limit 0 }}
+  {{ $events = first $limit $events }}
+{{ end }}
+
+{{ if gt (len $events) 0 }}
     <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
-    {{ range  $json }}
-        {{ partial "shortcodes/card.html" (dict "link" .link "title" .title "image" .image "subtitle" .subtitle) }}
+    {{ range $events }}
+        {{ if and .link (site.GetPage .link) }}
+            {{ partial "shortcodes/card.html" (dict "link" .link "title" .title "image" .image "subtitle" .subtitle) }}
+        {{ else }}
+            {{ partial "shortcodes/card.html" (dict "title" .title "image" .image "subtitle" .subtitle "imageStyle" "opacity: 0.25;") }}
+        {{ end }}
     {{ end }}
     </div>
 {{ else }}
