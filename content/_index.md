@@ -8,7 +8,7 @@ title = ""
 
 ## Upcoming Events
 
-{{< events >}}
+{{< events year="2026" limit=6 >}}
 
 ## Full Calendar
 

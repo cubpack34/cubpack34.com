@@ -4,4 +4,4 @@ draft = false
 title = 'Upcoming Events'
 +++
 
-{{< events >}}
+{{< events year="2026" >}}
