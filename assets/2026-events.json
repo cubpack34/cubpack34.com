@@ -14,8 +14,8 @@
     },
     {
         "title": "Fall Camping",
-        "subtitle": "October TBD, 2026",
-        "link": "",
+        "subtitle": "October 3-4, 2026",
+        "link": "/events/2026-fall-camping",
         "image": "/images/events/logo-camping.webp"
     },
     {
@@ -23,5 +23,155 @@
         "subtitle": "October 17, 2026 and October 24, 2026",
         "link": "/events/2026-scouting-for-food",
         "image": "/images/events/logo-scouting-for-food.webp"
+    },
+    {
+        "title": "Pack Hike - Ash Brook Reservation",
+        "subtitle": "October 18, 2026",
+        "link": "/events/2026-october-hike",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Trunk or Treat with American Legion",
+        "subtitle": "October TBD, 2026",
+        "link": "/events/2026-trunk-or-treat",
+        "image": "/images/events/logo-trunk-or-treat.webp"
+    },
+    {
+        "title": "Pack Hike - Watchung Reservation",
+        "subtitle": "November 15, 2026",
+        "link": "/events/2026-november-hike",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "November Pack Meeting",
+        "subtitle": "November 20, 2026",
+        "link": "/events/2026-november-pack-meeting",
+        "image": "/images/events/logo-thanksgiving-event.webp"
+    },
+    {
+        "title": "Scotch Plains Holiday Celebration",
+        "subtitle": "December TBD, 2026",
+        "link": "/events/2026-town-holiday-celebration",
+        "image": "/images/events/logo-holiday-celebration.webp"
+    },
+    {
+        "title": "Wreaths Across America",
+        "subtitle": "December TBD, 2026",
+        "link": "/events/2026-wreaths-across-america",
+        "image": "/images/events/logo-wreaths-across-america.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "December 13, 2026",
+        "link": "/events/2026-december-hike",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Holiday Party and Achievement Ceremony",
+        "subtitle": "December 18, 2026",
+        "link": "/events/2026-holiday-party",
+        "image": "/images/events/logo-holiday-party.webp"
+    },
+    {
+        "title": "Smores at Turtleback Zoo",
+        "subtitle": "December 20, 2026",
+        "link": "/events/2026-turtle-back-zoo",
+        "image": "/images/events/turtle-back-zoo-holiday-lights.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "January TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Pinewood Derby",
+        "subtitle": "January TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-pinewood-derby.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "February TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Webelos/AOL Klondike",
+        "subtitle": "February TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-klondike-derby.webp"
+    },
+    {
+        "title": "Blue & Gold Celebration",
+        "subtitle": "February TBD, 2027",
+        "link": "",
+        "image": "/images/events/blue-and-gold.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "March TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "STEM Event",
+        "subtitle": "March TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-stem.webp"
+    },
+    {
+        "title": "District Pinewood Derby",
+        "subtitle": "April TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-pinewood-derby.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "April TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Earth Day Cleanup",
+        "subtitle": "April TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-earth-day.webp"
+    },
+    {
+        "title": "Planting Flags with American Legion",
+        "subtitle": "May TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-flag-planting.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "May TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "Memorial Day Parade",
+        "subtitle": "May TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-memorial-day.webp"
+    },
+    {
+        "title": "Spring Campout",
+        "subtitle": "May TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-camping.webp"
+    },
+    {
+        "title": "Pack Hike",
+        "subtitle": "June TBD, 2027",
+        "link": "",
+        "image": "/images/events/logo-hike.webp"
+    },
+    {
+        "title": "End of Year Celebration / Badge of Rank Ceremony",
+        "subtitle": "June TBD, 2027",
+        "link": "",
+        "image": "/images/cub-scout-logo.webp"
     }
 ]
