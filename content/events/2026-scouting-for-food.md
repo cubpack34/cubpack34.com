@@ -15,3 +15,7 @@ Scouts will be provided bags and labels to distribute. Labels will need to be at
 Scouts should wear their uniforms during these activities and must be accompanied by a parent or guardian.
 
 We will have more details as we get closer to the event.
+
+## Relevant Adventures
+Participation in this event can cover requirements in the following scout adventures.
+{{< adventures category="service" >}}
