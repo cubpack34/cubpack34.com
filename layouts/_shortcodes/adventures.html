@@ -1,0 +1,15 @@
+
+
+{{ $json := resources.Get "adventures.json" | transform.Unmarshal }}
+
+{{ $adventures := index $json (.Get "category") }}
+
+<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 6;">
+{{ range $adventures }}
+    {{ if .elective }}
+        {{ partial "shortcodes/hcard.html" (dict "link" .link "title" .title "image" .image "subtitle" "Elective" "width" "100px") }}
+    {{ else }}
+        {{ partial "shortcodes/hcard.html" (dict "link" .link "title" .title "image" .image "width" "100px") }}
+    {{ end }}
+{{ end }}
+</div>

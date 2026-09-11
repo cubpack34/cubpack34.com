@@ -1,0 +1,78 @@
+{
+    "camping": [
+        {
+            "title": "Let's Camp Lion",
+            "image": "/images/adventures/lion/2023_2024_loops_pins_Lets_Camp-1.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/lets-camp-lion/",
+            "elective": true
+        },
+        {
+            "title": "Let's Camp Tiger",
+            "image": "/images/adventures/tiger/2023_2024_loops_pins_Lets_Camp.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/lets-camp-tiger/",
+            "elective": true
+        },
+        {
+            "title": "Let's Camp Wolf",
+            "image": "/images/adventures/wolf/2023_2024_loops_pins_Lets_Camp.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/lets-camp-wolf/",
+            "elective": true
+        },
+        {
+            "title": "Let's Camp Bear",
+            "image": "/images/adventures/bear/2023_2024_loops_pins_Lets_Camp-2.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/lets-camp-bear/",
+            "elective": true
+        },
+        {
+            "title": "Let's Camp Webelos",
+            "image": "/images/adventures/webelos/2023_2024_loops_pins_Lets_Camp-3.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/lets-camp-webelos/",
+            "elective": true
+        },
+        {
+            "title": "Outdoor Adventurer",
+            "image": "/images/adventures/aol/2023_2024_loops_pins_AOL_Outdoor_Adventurer.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/outdoor-adventurer/",
+            "elective": false
+        }
+    ],
+    "service": [
+        {
+            "title": "King of the Jungle",
+            "image": "/images/adventures/lion/2023_2024_loops_pins_King_of_The_Jungle.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/king-of-the-jungle/",
+            "elective": false
+        },
+        {
+            "title": "Team Tiger",
+            "image": "/images/adventures/tiger/2023_2024_loops_pins_Team_Tiger.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/team-tiger/",
+            "elective": false
+        },
+        {
+            "title": "Council Fire",
+            "image": "/images/adventures/wolf/2023_2024_loops_pins_Council_Fire.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/council-fire/",
+            "elective": false
+        },
+        {
+            "title": "Paws for Action",
+            "image": "/images/adventures/bear/2023_2024_loops_pins_Paws_For_Action.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/paws-for-action/",
+            "elective": false
+        },
+        {
+            "title": "My Community",
+            "image": "/images/adventures/webelos/2023_2024_loops_pins_My_Community.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/my-community/",
+            "elective": false
+        },
+        {
+            "title": "Citizenship",
+            "image": "/images/adventures/aol/2023_2024_loops_pins_Citizenship.webp",
+            "link": "https://www.scouting.org/cub-scout-adventures/citizenship/",
+            "elective": false
+        }
+    ]
+}
