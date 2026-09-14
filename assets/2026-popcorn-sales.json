@@ -1,13 +1,16 @@
 {
-    "raised": "$7,854",
+    "raised": "$9,359",
     "goal": "$9,500",
-    "percentage": "83%",
+    "percentage": "99%",
     "end": "2026-10-31",
     "leaderboard": [
-        
         {
             "name": "Thomas & John J.",
-            "sold": "$2870"
+            "sold": "$3,195"
+        },
+        {
+            "name": "Leighton H.",
+            "sold": "$1,010"
         },
         {
             "name": "Kevin G.",
