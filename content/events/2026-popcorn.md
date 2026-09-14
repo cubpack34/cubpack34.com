@@ -75,9 +75,9 @@ Do you have a specific location in mind for a storefront? Whether it’s a commu
 {{< /callout >}}
 
 
-### Wagon
+### Individual / Wagon
 
-Sell door to door through your neighborhood. You can either sell and deliver later or pick up some popcorn from us and deliver as you sell. We recommend having the popcorn on hand to increase the chances of a sale and avoid a second trip.
+Sell to family and friends, door to door through your neighborhood or with a paper order form. You can either sell and deliver later or pick up some popcorn from us and deliver as you sell. We recommend having the popcorn on hand to increase the chances of a sale and avoid a second trip.
 
 {{% /steps %}}
 
