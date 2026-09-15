@@ -2,6 +2,9 @@
 date = '2025-11-15T00:06:59-05:00'
 draft = false
 title = 'Cost of Scouting'
+aliases = [
+    "/cost/"
+]
 +++
 
 {{< callout type="info" >}}
