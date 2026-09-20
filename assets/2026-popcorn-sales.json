@@ -1,16 +1,26 @@
 {
-    "raised": "$9,359",
-    "goal": "$9,500",
-    "percentage": "99%",
+    "raised": "$11,036",
+    "goal": "$14,000",
+    "percentage": "79%",
     "end": "2026-10-31",
     "leaderboard": [
         {
             "name": "Thomas & John J.",
-            "sold": "$3,195"
+            "sold": "$4,015"
+        },
+        {
+            "name": "Kevin G.",
+            "sold": "$1,263"
         },
         {
             "name": "Leighton H.",
             "sold": "$1,010"
+        }
+    ],
+    "dens": [
+        {
+            "name": "Tiger",
+            "sold": "$3025"
         },
         {
             "name": "Kevin G.",
