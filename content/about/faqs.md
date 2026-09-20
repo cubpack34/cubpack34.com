@@ -110,6 +110,11 @@ $100 for 2026-2027
 
 Pack dues should be sent through Zelle to cubpack34@gmail.com. Please include "Pack Dues" and your scout's name in the memo. If you are unable to use zelle, please reach out and we can make other arrangements.
 
+### What is the due date for popcorn?
+
+Pack dues are collected at the end of November after the popcorn fundraiser has ended.
+
+
 ## Uniform
 
 ### What is the class A uniform?
