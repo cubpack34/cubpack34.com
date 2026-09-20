@@ -132,7 +132,7 @@ No matter how you choose to sell
 {{< cards cols="1" >}}
     {{< card title="Support the Pack" subtitle="• Pays for pack activities, permits, leader training, maintenance of pack equipment, etc. " >}}
     {{< card title="Support Local Council and Infrastructure" subtitle="• Helps council maintain local camps, train adult volunteers, provide financial assistance, etc." >}}
-    {{< card title="Remove Pack Dues" subtitle="• First $300 worth of popcorn sold proportionately reduces pack dues." >}}
+    {{< card title="Remove Pack Dues" subtitle="• First $300 worth of popcorn sold proportionally reduces pack dues." >}}
     {{< card title="Earn Rewards and Prizes" subtitle="• Scouts unlock cash rewards at $600 sold. <i>(Rewards are earned on the first $600)</i><br />• Top 3 sellers will receive a trophy at our December Pack meeting." >}}
     {{< card title="Learn Real-World Skills" subtitle="• Practice communication and public speaking.<br />• Set a goal, build a plan and track your progress.<br />• Handling money, tracking sales and making change.<br />• Learn how to handle rejection." >}}
 {{< /cards >}}
