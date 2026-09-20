@@ -31,6 +31,8 @@ BSA Youth Registration fees are increasing to $96 in 2027. Council Fee will be h
 
 ## Uniform
 
+### Class A
+
 {{< tabs >}}
     {{< tab name="Scout Uniform" >}}
         {{< cards cols="1" >}}
@@ -91,8 +93,19 @@ BSA Youth Registration fees are increasing to $96 in 2027. Council Fee will be h
 
 
 {{< callout type="info" >}}
-All items above are available to purchase at our local council's scout shops [https://www.ppcscoutshop.org/](https://www.ppcscoutshop.org/).<br />Click on any item to be taken directly to it's store page.
+All items above are available to purchase at our local council's scout shops [https://www.ppcscoutshop.org/](https://www.ppcscoutshop.org/).<br />
+Click on any item to be taken directly to it's store page.
 {{< /callout >}}
+
+{{< callout type="info" >}}
+Pants, shorts, belts and socks are also available but are optional.
+{{< /callout >}}
+
+### Class B
+
+The class B uniform is our pack t-shirt.<br />
+They are available to purchase from the pack for $15.<br />
+Scouts will receive their first class B uniform free when they join the pack.
 
 ## Financial Assistance
 
