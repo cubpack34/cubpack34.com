@@ -10,7 +10,7 @@ title = 'Pack Hike - Watchung Red Trail'
   {{< card link="/files/hikemap/watchung-reservation.jpg" title="Trail Map" >}}
 {{< /cards >}}
 
-Join us for a hike at Watchung Reservation. We will be hiking the red trail. The hike is about 0.7 miles. This trail is for scouts of all ages.
+Join us for a hike at Watchung Reservation. We will be hiking the red trail. The hike is about 0.7 miles.
 
 Make sure to bring along the [Cub Scout Six Essentials](/docs/six-essentials/).
 
