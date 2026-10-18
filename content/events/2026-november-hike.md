@@ -1,7 +1,7 @@
 +++
 date = '2026-07-27T02:39:10-04:00'
 draft = false
-title = 'Pack Hike - Watchung Reservation (Yellow Trail)'
+title = 'Pack Hike - Watchung Yellow Trail'
 +++
 
 <img src="/images/events/logo-hike.webp" style="max-width: 400px; height: auto;">
