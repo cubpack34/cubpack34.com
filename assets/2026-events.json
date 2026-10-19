@@ -4,174 +4,203 @@
         "title": "Popcorn Fundraiser",
         "subtitle": "August 1st - October 23st",
         "link": "/events/2026-popcorn",
-        "image": "/images/events/2026-popcorn.webp"
+        "image": "/images/events/2026-popcorn.webp",
+        "expiry": "2026-10-24T00:00:00.000Z"
     },
     {
         "title": "Open House Pack Meeting",
         "subtitle": "September 18, 2026",
         "link": "/events/2026-open-house",
-        "image": "/images/events/2026-open-house.webp"
+        "image": "/images/events/2026-open-house.webp",
+        "expiry": "2026-09-18T00:00:00.000Z"
     },
     {
         "title": "Fall Outdoor Event",
         "subtitle": "October 3, 2026",
         "link": "/events/2026-fall-outdoors",
-        "image": "/images/events/logo-outdoor-event.webp"
+        "image": "/images/events/logo-outdoor-event.webp",
+        "expiry": "2026-10-04T00:00:00.000Z"
     },
     {
         "title": "Scouting for Food",
         "subtitle": "October 17, 2026 and October 24, 2026",
         "link": "/events/2026-scouting-for-food",
-        "image": "/images/events/logo-scouting-for-food.webp"
+        "image": "/images/events/logo-scouting-for-food.webp",
+        "expiry": "2026-10-25T00:00:00.000Z"
     },
     {
         "title": "Pack Hike - Watchung Red Trail",
         "subtitle": "October 18, 2026",
         "link": "/events/2026-october-hike",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2026-10-19T00:00:00.000Z"
     },
     {
         "title": "Trunk or Treat with American Legion",
-        "subtitle": "October TBD, 2026",
+        "subtitle": "October 24, 2026",
         "link": "/events/2026-trunk-or-treat",
-        "image": "/images/events/logo-trunk-or-treat.webp"
+        "image": "/images/events/logo-trunk-or-treat.webp",
+        "expiry": "2026-10-25T00:00:00.000Z"
     },
     {
         "title": "Pack Hike - Watchung Yellow Trail",
         "subtitle": "November 15, 2026",
         "link": "/events/2026-november-hike",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2026-11-16T00:00:00.000Z"
     },
     {
         "title": "November Pack Meeting",
         "subtitle": "November 20, 2026",
         "link": "/events/2026-november-pack-meeting",
-        "image": "/images/events/logo-thanksgiving-event.webp"
+        "image": "/images/events/logo-thanksgiving-event.webp",
+        "expiry": "2026-11-21T00:00:00.000Z"
     },
     {
         "title": "Scotch Plains Holiday Celebration",
         "subtitle": "December TBD, 2026",
         "link": "/events/2026-town-holiday-celebration",
-        "image": "/images/events/logo-holiday-celebration.webp"
+        "image": "/images/events/logo-holiday-celebration.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Wreaths Across America",
         "subtitle": "December TBD, 2026",
         "link": "/events/2026-wreaths-across-america",
-        "image": "/images/events/logo-wreaths-across-america.webp"
+        "image": "/images/events/logo-wreaths-across-america.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "December 13, 2026",
         "link": "/events/2026-december-hike",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Holiday Party and Achievement Ceremony",
         "subtitle": "December 18, 2026",
         "link": "/events/2026-holiday-party",
-        "image": "/images/events/logo-holiday-party.webp"
+        "image": "/images/events/logo-holiday-party.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Smores at Turtleback Zoo",
         "subtitle": "December 20, 2026",
         "link": "/events/2026-turtle-back-zoo",
-        "image": "/images/events/turtle-back-zoo-holiday-lights.webp"
+        "image": "/images/events/turtle-back-zoo-holiday-lights.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "January TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pinewood Derby",
         "subtitle": "January TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-pinewood-derby.webp"
+        "image": "/images/events/logo-pinewood-derby.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "February TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Webelos/AOL Klondike",
         "subtitle": "February TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-klondike-derby.webp"
+        "image": "/images/events/logo-klondike-derby.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Blue & Gold Celebration",
         "subtitle": "February TBD, 2027",
         "link": "",
-        "image": "/images/events/blue-and-gold.webp"
+        "image": "/images/events/blue-and-gold.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "March TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "STEM Event",
         "subtitle": "March TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-stem.webp"
+        "image": "/images/events/logo-stem.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "District Pinewood Derby",
         "subtitle": "April TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-pinewood-derby.webp"
+        "image": "/images/events/logo-pinewood-derby.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "April TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Earth Day Cleanup",
         "subtitle": "April TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-earth-day.webp"
+        "image": "/images/events/logo-earth-day.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Planting Flags with American Legion",
         "subtitle": "May TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-flag-planting.webp"
+        "image": "/images/events/logo-flag-planting.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "May TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Memorial Day Parade",
         "subtitle": "May TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-memorial-day.webp"
+        "image": "/images/events/logo-memorial-day.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Spring Campout",
         "subtitle": "May TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-camping.webp"
+        "image": "/images/events/logo-camping.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "Pack Hike",
         "subtitle": "June TBD, 2027",
         "link": "",
-        "image": "/images/events/logo-hike.webp"
+        "image": "/images/events/logo-hike.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
         "title": "End of Year Celebration / Badge of Rank Ceremony",
         "subtitle": "June TBD, 2027",
         "link": "",
-        "image": "/images/cub-scout-logo.webp"
+        "image": "/images/cub-scout-logo.webp",
+        "expiry": "2027-07-30T00:00:00.000Z"
     }
 ]
