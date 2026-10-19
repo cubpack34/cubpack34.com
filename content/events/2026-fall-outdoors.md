@@ -8,7 +8,7 @@ title = '2026 Fall Outdoor Event'
 
 
 {{< cards cols="1" >}}
-  {{< card link="https://forms.gle/XemmdRjhBwbsg3xx8" title="Register" >}}
+  {{< card title="Register (link in email)" >}}
 {{< /cards >}}
 
 We were unable to secure a permit to camp at the Watchung Scout Reservation this year. Instead, we will be spending the day at the Evergreen Picnic Area at the Loop Playground from 11am to 9pm. We will have all the same activites and food with evening s'mores over a charcoal grill.
@@ -48,5 +48,5 @@ Our outdoor event is open your scouts, their families and their friends.
 * **Side Dish & Snack Sign-Up:** We’d love help rounding out our meals! If you’re able to bring sides, snacks, or drinks to share, please sign up below.
 
 {{< cards cols="1" >}}
-  {{< card link="https://docs.google.com/spreadsheets/d/1UOsnOw2u9ntmp8W0wu-BYUdvplsmTt00Cgsbc0einjg/edit?usp=sharing" title="Sign-up to bring food" >}}
+  {{< card title="Sign-up to bring food (link in email)" >}}
 {{< /cards >}}
