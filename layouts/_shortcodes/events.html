@@ -2,6 +2,15 @@
 {{ $fileName := printf "%s-events.json" (.Get "year") }}
 {{ $events := resources.Get $fileName | transform.Unmarshal }}
 
+{{/* Filter out expired events */}}
+{{ $filteredEvents := slice }}
+{{ range $events }}
+  {{ if and .expiry (gt (time .expiry) now) }}
+    {{ $filteredEvents = $filteredEvents | append . }}
+  {{ end }}
+{{ end }}
+{{ $events = $filteredEvents }}
+
 {{ $limit := .Get "limit" | default (.Get 0) | int }}
 
 {{ if gt $limit 0 }}

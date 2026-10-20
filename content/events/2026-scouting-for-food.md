@@ -9,7 +9,7 @@ title = '2026 Scouting for Food'
 We are working alongside Pack 277, Troop 104 and Troop 33 to collect non-perishable food donations for the Fanwood Presbyterian Church Food Bank to support our local community. Together we will be soliciting and collecting across Scotch Plains and Fanwood to collect as much as we can.
 
 {{< cards cols="1" >}}
-  {{< card link="https://docs.google.com/spreadsheets/d/1fkZLL96uwUj0YPOq-jEb_r-fEai4z8SJHY1_KCb6hB4/edit?usp=sharing" title="Sign-up Sheet" >}}
+  {{< card title="Sign-up Sheet (link in email)" >}}
 {{< /cards >}}
 
 ## Details

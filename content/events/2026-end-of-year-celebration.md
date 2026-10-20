@@ -4,7 +4,7 @@ draft = false
 title = '2026 End of Year Celebration'
 +++
 
-![](/images/cub-scout-logo.webp)
+<img src="/images/cub-scout-logo.webp" style="max-width: 400px; height: auto;">
 
 Let's celebrate another successful year of scouting.
 
@@ -13,7 +13,7 @@ Join us in celebrating our scouts as they receive their remaining advancements a
 We are looking for volunteers that can bring sides, snacks, drinks, etc. If you are able to bring anything, please sign-up below.
 
 {{< cards cols="1" >}}
-  {{< card link="https://docs.google.com/spreadsheets/d/1RKxRABXilfz2BqcZ01T2TDdJMGsaso5hE512WZfqSsk/edit?usp=sharing" title="Sign-up to Bring Something" >}}
+  {{< card title="Sign-up to Bring Something (link in email)" >}}
 {{< /cards >}}
 
 ## Activities

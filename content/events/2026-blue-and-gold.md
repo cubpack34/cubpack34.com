@@ -7,7 +7,7 @@ title = '2026 Blue and Gold / Crossover Celebration'
 ![](/images/events/blue-and-gold-banner.webp)
 
 {{< cards cols="1" >}}
-  {{< card link="https://forms.gle/AgtNctm36pukByag9" title="RSVP" >}}
+  {{< card title="RSVP (link in email)" >}}
 {{< /cards >}}
 
 Join us in celebrating the crossing over of our AOL cub scouts to Scouts BSA.<br />
