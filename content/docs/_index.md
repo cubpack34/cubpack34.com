@@ -41,3 +41,8 @@ title = 'Docs'
   {{< card link="/docs/scoutbook/viewing-advancements" title="Viewing Scout Advancements" >}}
 {{< /cards >}}
 
+## Stories
+
+{{< cards cols="1" >}}
+  {{< card link="/docs/big-turkey-hunt" title="The Big Turkey Hunt" >}}
+{{< /cards >}}
