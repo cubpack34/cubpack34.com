@@ -58,7 +58,7 @@
     },
     {
         "title": "Scotch Plains Holiday Celebration",
-        "subtitle": "December TBD, 2026",
+        "subtitle": "December 6, 2026",
         "link": "/events/2026-town-holiday-celebration",
         "image": "/images/events/logo-holiday-celebration.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
@@ -100,8 +100,8 @@
     },
     {
         "title": "Pinewood Derby",
-        "subtitle": "January TBD, 2027",
         "link": "",
+        "subtitle": "January 30, 2027",
         "image": "/images/events/logo-pinewood-derby.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
     },
@@ -114,14 +114,14 @@
     },
     {
         "title": "Webelos/AOL Klondike",
-        "subtitle": "February TBD, 2027",
+        "subtitle": "February 6, 2027",
         "link": "",
         "image": "/images/events/logo-klondike-derby.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
-        "title": "Blue & Gold Celebration",
-        "subtitle": "February TBD, 2027",
+        "title": "Blue & Gold / AOL Crossing Ceremony",
+        "subtitle": "February 26, 2027",
         "link": "",
         "image": "/images/events/blue-and-gold.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
@@ -134,17 +134,17 @@
         "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
-        "title": "STEM Event",
-        "subtitle": "March TBD, 2027",
+        "title": "District Pinewood Derby",
+        "subtitle": "March 13, 2027",
         "link": "",
-        "image": "/images/events/logo-stem.webp",
+        "image": "/images/events/logo-pinewood-derby.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
-        "title": "District Pinewood Derby",
-        "subtitle": "April TBD, 2027",
+        "title": "STEM Event",
+        "subtitle": "March 19, 2027",
         "link": "",
-        "image": "/images/events/logo-pinewood-derby.webp",
+        "image": "/images/events/logo-stem.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
@@ -183,8 +183,8 @@
         "expiry": "2027-07-30T00:00:00.000Z"
     },
     {
-        "title": "Spring Campout",
-        "subtitle": "May TBD, 2027",
+        "title": "Spring Campout @ Camp Winnebago",
+        "subtitle": "May 21-23, 2027",
         "link": "",
         "image": "/images/events/logo-camping.webp",
         "expiry": "2027-07-30T00:00:00.000Z"
